@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+    <title>Night Lite | v1-prod</title>
+    <link id="favicon" rel="icon" href="favicon.ico" type="image/png"/>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet"/>
+    <link rel="stylesheet" href="/data/assets/css/games.css"/>
+    <style>
+        /* Inline styles for footer theme (assuming dark theme; adjust via themes.js if needed) */
+        .footer { background-color: #000; color: #fff; }
+        .footer a { color: #fff; text-decoration: none; transition: color 0.3s; }
+        .footer a:hover { color: #ccc; }
+    </style>
+</head>
+<body class="bg-black text-white flex flex-col items-center justify-center min-h-screen relative pt-20">
+    <div class="stars"></div>
+    <div class="content text-center relative z-10 mt-20 w-full max-w-6xl px-4">
+        <h1 class="text-4xl md:text-6xl font-bold transition-transform duration-300 ease-in-out hover:scale-105 glow-text mb-8 text-center">No Distractions, Just Games, On Night.</h1>
+        <div class="search-container mb-4">
+            <i class="fa fa-search"></i>
+            <input type="text" id="search-input" placeholder="Search through over 550 games available!" class="px-4 py-2 bg-gray-800 text-white focus:outline-none focus:ring-2 focus:ring-blue-500"/>
+        </div>
+        <div id="notification-container"></div>
+        <div class="starred-section">
+            <p class="text-6lg md:text-6xl font-bold transition-transform duration-300 ease-in-out hover:scale-105 glow-text mb-8">Favorites</p>
+            <p id="empty-favorites-message" class="text-center text-white-400 text-lg hidden">Favorite some games to show here, do you not like any games or something?</p>
+            <div id="starred-grid"></div>
+        </div>
+        <p class="text-6lg md:text-6xl font-bold transition-transform duration-300 ease-in-out hover:scale-105 glow-text mb-8">All Games</p>
+        <p class="copyright-message text-center text-white-400 text-lg mb-8 rainbow-text">« all games on this site are complete copyright and property to their respective owners »</p>
+        <div id="game-grid"></div>
+        <div id="cookie-popup" class="cookie-popup">
+            <p>By using Night, you accept to us using cookies to: save your game progress and site settings. By clicking "I Understand", you agree to our use of cookies.</p>
+            <button id="accept-cookies">I Understand</button>
+        </div>
+        <div id="game-modal" class="game-modal" role="dialog" aria-modal="true" aria-labelledby="modal-game-title">
+            <div class="game-modal-content">
+                <div class="iframe-container" id="iframe-container">
+                    <div id="custom-loading-screen" class="custom-loading-screen"></div>
+                    <div class="loading-spinner" id="loading-spinner"></div>
+                    <iframe id="game-iframe" class="game-iframe" src="" frameborder="0" allowfullscreen scrolling="no" allow="fullscreen; gamepad; microphone; camera" sandbox="allow-scripts allow-same-origin allow-forms allow-pointer-lock allow-fullscreen"></iframe>
+                </div>
+                <div class="game-modal-header">
+                    <h3 id="modal-game-title" class="game-modal-title">Game Title</h3>
+                    <div class="modal-controls">
+                        <button id="refresh-btn" class="control-btn" title="Refresh Game">
+                            <i class="fas fa-redo"></i><span>Refresh</span>
+                        </button>
+                        <button id="fullscreen-btn" class="control-btn" title="Toggle Fullscreen">
+                            <i class="fas fa-expand"></i><span>Fullscreen</span>
+                        </button>
+                        <button id="close-modal" class="close-modal" aria-label="Close modal">
+                            <i class="fas fa-times"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+            <div id="exit-message" class="exit-message">Click outside to exit</div>
+        </div>
+    </div>
+
+    <!-- Extracted and inlined bottom bar (footer) for fast loading -->
+    <div class="footer w-full py-2 px-6 fixed bottom-0 z-10 flex justify-center items-center">
+        <div class="flex space-x-6">
+            <a href="https://usenight.vercel.app/contact.html" class="text-lg md:text-xl font-bold nav-link glow-text">Contact</a>
+            <a href="https://usenight.vercel.app/legal.html" class="text-lg md:text-xl font-bold nav-link glow-text">Legal</a>
+            <a href="https://usenight.vercel.app/about.html" class="text-lg md:text-xl font-bold nav-link glow-text">About</a>
+        </div>
+        <p class="text-sm text-white-400 absolute left-6"></p>
+    </div>
+    <script src="data/assets/js/games.js" defer></script>
+</body>
+</html>

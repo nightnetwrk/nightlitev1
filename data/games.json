@@ -1,0 +1,3523 @@
+[
+  {
+    "name": "1",
+    "image": "icons/1.png",
+    "url": "mages/1/index.html",
+    "category": "Strategy",
+    "favicon": "mages/1/1.png"
+  },
+  {
+    "name": "2048",
+    "image": "icons/2048.png",
+    "url": "mages/2048/index.html",
+    "category": "Game",
+    "favicon": "mages/2048/2048.png"
+  },
+  {
+    "name": "9007199254740992",
+    "image": "icons/9007199254740992.png",
+    "url": "mages/9007199254740992/index.html",
+    "category": "Game",
+    "favicon": "mages/9007199254740992/9007199254740992.png"
+  },
+  {
+    "name": "Cupcake 2048",
+    "image": "icons/cupcake2048.png",
+    "url": "mages/cupcake2048/index.html",
+    "category": "Game",
+    "favicon": "mages/cupcake2048/cupcake2048.png"
+  },
+  {
+    "name": "Doge 2048",
+    "image": "icons/doge2048.png",
+    "url": "mages/doge2048/index.html",
+    "category": "Game",
+    "favicon": "mages/doge2048/doge2048.png"
+  },
+  {
+    "name": "Meme 2048",
+    "image": "icons/meme2048.png",
+    "url": "mages/meme2048/index.html",
+    "category": "Game",
+    "favicon": "mages/meme2048/meme2048.png"
+  },
+  {
+    "name": "Big Red Button",
+    "image": "icons/bigredbutton.png",
+    "url": "mages/bigredbutton/index.html",
+    "category": "Game",
+    "favicon": "mages/bigredbutton/bigredbutton.png"
+  },
+  {
+    "name": "Plant Daddy",
+    "image": "icons/plantdaddy.png",
+    "url": "mages/plantdaddy/index.html",
+    "category": "Game",
+    "favicon": "mages/plantdaddy/plantdaddy.png"
+  },
+  {
+    "name": "Make Sure It's Closed",
+    "image": "icons/makesureitsclosed.png",
+    "url": "mages/makesureitsclosed/index.html",
+    "category": "Game",
+    "favicon": "mages/makesureitsclosed/makesureitsclosed.png"
+  },
+  {
+    "name": "Last Train Home",
+    "image": "icons/lasttrainhome.png",
+    "url": "mages/lasttrainhome/index.html",
+    "category": "Game",
+    "favicon": "mages/lasttrainhome/lasttrainhome.png"
+  },
+  {
+    "name": "Miss Inconspicuous",
+    "image": "icons/missInconspicuous.png",
+    "url": "mages/missInconspicuous/index.html",
+    "category": "Game",
+    "favicon": "mages/missInconspicuous/missInconspicuous.png"
+  },
+  {
+    "name": "Diaper's Please!",
+    "image": "icons/diapersplease.png",
+    "url": "mages/diapersplease/index.html",
+    "category": "Game",
+    "favicon": "mages/diapersplease/diapersplease.png"
+  },
+  {
+    "name": "Cat that makes bongo noises",
+    "image": "icons/cat.png",
+    "url": "mages/cat/index.html",
+    "category": "Game",
+    "favicon": "mages/cat/cat.png"
+  },
+  {
+    "name": "Hungry Lamu",
+    "image": "icons/hungrylamu.png",
+    "url": "mages/hungrylamu/index.html",
+    "category": "Game",
+    "favicon": "mages/hungrylamu/hungrylamu.png"
+  },
+  {
+    "name": "Elastic Man",
+    "image": "icons/elasticman.png",
+    "url": "mages/elasticman/play.html",
+    "category": "Game",
+    "favicon": "mages/elasticman/elasticman.png"
+  },
+  {
+    "name": "Bloxors",
+    "image": "icons/bloxors.png",
+    "url": "mages/bloxors/index.html",
+    "category": "Game",
+    "favicon": "mages/bloxors/bloxors.png"
+  },
+  {
+    "name": "1v1.lol",
+    "image": "icons/1v1lol.png",
+    "url": "mages/1v1lol/index.html",
+    "category": "Game",
+    "favicon": "mages/1v1lol/1v1lol.png"
+  },
+  {
+    "name": "3 Lines",
+    "image": "icons/3lines.png",
+    "url": "mages/3lines/index.html",
+    "category": "Game",
+    "favicon": "mages/3lines/3lines.png"
+  },
+  {
+    "name": "Amidst The Sky",
+    "image": "icons/amidstthesky.png",
+    "url": "mages/amidstthesky/index.html",
+    "category": "Game",
+    "favicon": "mages/amidstthesky/amidstthesky.png"
+  },
+  {
+    "name": "Deal Or No Deal",
+    "image": "icons/dealornodeal.png",
+    "url": "mages/dealornodeal/index.html",
+    "category": "Game",
+    "favicon": "mages/dealornodeal/dealornodeal.png"
+  },
+  {
+    "name": "10 Minutes Till Dawn",
+    "image": "icons/10minutestilldawn.png",
+    "url": "mages/10minutestilldawn/index.html",
+    "category": "Game",
+    "favicon": "mages/10minutestilldawn/10minutestilldawn.png"
+  },
+  {
+    "name": "13 Days In Hell",
+    "image": "icons/13daysinhell.png",
+    "url": "mages/13daysinhell/index.html",
+    "category": "Game",
+    "favicon": "mages/13daysinhell/13daysinhell.png"
+  },
+  {
+    "name": "60 Seconds Burger Run",
+    "image": "icons/60sburgerrun.png",
+    "url": "mages/60sburgerrun/index.html",
+    "category": "Game",
+    "favicon": "mages/60sburgerrun/60sburgerrun.png"
+  },
+  {
+    "name": "Achievement Unlocked",
+    "image": "icons/achievementunlocked.png",
+    "url": "mages/achievementunlocked/index.html",
+    "category": "Game",
+    "favicon": "mages/achievementunlocked/achievementunlocked.png"
+  },
+  {
+    "name": "Achievement Unlocked 2",
+    "image": "icons/achievementunlocked2.png",
+    "url": "mages/achievementunlocked2/index.html",
+    "category": "Game",
+    "favicon": "mages/achievementunlocked2/achievementunlocked2.png"
+  },
+  {
+    "name": "A Dance Of Fire And Ice",
+    "image": "icons/adanceoffireandice.png",
+    "url": "mages/adanceoffireandice/index.html",
+    "category": "Game",
+    "favicon": "mages/adanceoffireandice/adanceoffireandice.png"
+  },
+  {
+    "name": "A Dark Room",
+    "image": "icons/adarkroom.png",
+    "url": "mages/adarkroom/index.html",
+    "category": "Game",
+    "favicon": "mages/adarkroom/adarkroom.png"
+  },
+  {
+    "name": "Adventure Capitalist",
+    "image": "icons/adventurecapitalist.png",
+    "url": "mages/adventurecapitalist/index.html",
+    "category": "Game",
+    "favicon": "mages/adventurecapitalist/adventurecapitalist.png"
+  },
+  {
+    "name": "1 On 1 Soccer",
+    "image": "icons/1on1soccer.png",
+    "url": "mages/1on1soccer/index.html",
+    "category": "Game",
+    "favicon": "mages/1on1soccer/1on1soccer.png"
+  },
+  {
+    "name": "Amazing Rope Police",
+    "image": "icons/amazingropepolice.png",
+    "url": "mages/amazingropepolice/index.html",
+    "category": "Game",
+    "favicon": "mages/amazingropepolice/amazingropepolice.png"
+  },
+  {
+    "name": "Animal Crossing Wild World",
+    "image": "icons/animalcrossingwildworld.png",
+    "url": "mages/animalcrossingwildworld/index.html",
+    "category": "Game",
+    "favicon": "mages/animalcrossingwildworld/animalcrossingwildworld.png"
+  },
+  {
+    "name": "Avalanche",
+    "image": "icons/avalanche.png",
+    "url": "mages/avalanche/index.html",
+    "category": "Game",
+    "favicon": "mages/avalanche/avalanche.png"
+  },
+  {
+    "name": "Awesome Tanks",
+    "image": "icons/awesometanks.png",
+    "url": "mages/awesometanks/index.html",
+    "category": "Game",
+    "favicon": "mages/awesometanks/awesometanks.png"
+  },
+  {
+    "name": "Boba Simulator",
+    "image": "icons/bobasimulator.png",
+    "url": "mages/bobasimulator/index.html",
+    "category": "Game",
+    "favicon": "mages/bobasimulator/bobasimulator.png"
+  },
+  {
+    "name": "Backrooms 2D",
+    "image": "icons/backrooms2d.png",
+    "url": "mages/backrooms2d/index.html",
+    "category": "Game",
+    "favicon": "mages/backrooms2d/backrooms2d.png"
+  },
+  {
+    "name": "Backrooms",
+    "image": "icons/backrooms.png",
+    "url": "mages/backrooms/index.html",
+    "category": "Game",
+    "favicon": "mages/backrooms/backrooms.png"
+  },
+  {
+    "name": "Bad Ice Cream",
+    "image": "icons/badicecream.png",
+    "url": "mages/badicecream/index.html",
+    "category": "Game",
+    "favicon": "mages/badicecream/badicecream.png"
+  },
+  {
+    "name": "Bad Ice Cream 2",
+    "image": "icons/badicecream2.png",
+    "url": "mages/badicecream2/index.html",
+    "category": "Game",
+    "favicon": "mages/badicecream2/badicecream2.png"
+  },
+  {
+    "name": "Bad Ice Cream 3",
+    "image": "icons/badicecream3.png",
+    "url": "mages/badicecream3/index.html",
+    "category": "Game",
+    "favicon": "mages/badicecream3/badicecream3.png"
+  },
+  {
+    "name": "Happy Cat Tavern",
+    "image": "icons/happycattavern.png",
+    "url": "mages/happycattavern/index.html",
+    "category": "Game",
+    "favicon": "mages/happycattavern/happycattavern.png"
+  },
+  {
+    "name": "Idle Dice",
+    "image": "icons/idledice.png",
+    "url": "mages/idledice/index.html",
+    "category": "Game",
+    "favicon": "mages/idledice/idledice.png"
+  },
+  {
+    "name": "Idle Dice's",
+    "image": "icons/idledices.png",
+    "url": "mages/idledices/index.html",
+    "category": "Game",
+    "favicon": "mages/idledices/idledices.png"
+  },
+  {
+    "name": "Bad Piggies",
+    "image": "icons/badpiggies.png",
+    "url": "mages/badpiggies/index.html",
+    "category": "Game",
+    "favicon": "mages/badpiggies/badpiggies.png"
+  },
+  {
+    "name": "Invite The Blackbird",
+    "image": "icons/invitetheblackbird.png",
+    "url": "mages/invitetheblackbird/index.html",
+    "category": "Game",
+    "favicon": "mages/invitetheblackbird/invitetheblackbird.png"
+  },
+  {
+    "name": "Bad Time Simulator",
+    "image": "icons/badtimesimulator.png",
+    "url": "mages/badtimesimulator/index.html",
+    "category": "Game",
+    "favicon": "mages/badtimesimulator/badtimesimulator.png"
+  },
+  {
+    "name": "A Date With Papyrus",
+    "image": "icons/datewithpapyrus.png",
+    "url": "mages/datewithpapyrus/index.html",
+    "category": "Game",
+    "favicon": "mages/datewithpapyrus/datewithpapyrus.png"
+  },
+  {
+    "name": "Just One Boss",
+    "image": "icons/justoneboss.png",
+    "url": "mages/justoneboss/index.html",
+    "category": "Game",
+    "favicon": "mages/justoneboss/justoneboss.png"
+  },
+  {
+    "name": "Baldi's Basics",
+    "image": "icons/baldisbasics.png",
+    "url": "mages/baldisbasics/index.html",
+    "category": "Game",
+    "favicon": "mages/baldisbasics/baldisbasics.png"
+  },
+  {
+    "name": "Ballistic Chickens",
+    "image": "icons/ballisticchickens.png",
+    "url": "mages/ballisticchickens/index.html",
+    "category": "Game",
+    "favicon": "mages/ballisticchickens/ballisticchickens.png"
+  },
+  {
+    "name": "Balloon Run",
+    "image": "icons/balloonrun.png",
+    "url": "mages/balloonrun/index.html",
+    "category": "Game",
+    "favicon": "mages/balloonrun/balloonrun.png"
+  },
+  {
+    "name": "Banjo Kazooie",
+    "image": "icons/banjokazooie.png",
+    "url": "mages/banjokazooie/index.html",
+    "category": "Game",
+    "favicon": "mages/banjokazooie/banjokazooie.png"
+  },
+  {
+    "name": "Basketball Stars",
+    "image": "icons/basketballstars.png",
+    "url": "mages/basketballstars/index.html",
+    "category": "Game",
+    "favicon": "mages/basketballstars/basketballstars.png"
+  },
+  {
+    "name": "Basket Bros",
+    "image": "icons/basketbros.png",
+    "url": "mages/basketbros/index.html",
+    "category": "Game",
+    "favicon": "mages/basketbros/basketbros.png"
+  },
+  {
+    "name": "Basket Random",
+    "image": "icons/basketrandom.png",
+    "url": "mages/basketrandom/index.html",
+    "category": "Game",
+    "favicon": "mages/basketrandom/basketrandom.png"
+  },
+  {
+    "name": "Boxing Random",
+    "image": "icons/boxingrandom.png",
+    "url": "mages/boxingrandom/index.html",
+    "category": "Game",
+    "favicon": "mages/boxingrandom/boxingrandom.png"
+  },
+  {
+    "name": "Soccer Random",
+    "image": "icons/soccerrandom.png",
+    "url": "mages/soccerrandom/index.html",
+    "category": "Game",
+    "favicon": "mages/soccerrandom/soccerrandom.png"
+  },
+  {
+    "name": "Volley Random",
+    "image": "icons/volleyrandom.png",
+    "url": "mages/volleyrandom/index.html",
+    "category": "Game",
+    "favicon": "mages/volleyrandom/volleyrandom.png"
+  },
+  {
+    "name": "Bike Champ",
+    "image": "icons/bikechamp.png",
+    "url": "mages/bikechamp/index.html",
+    "category": "Game",
+    "favicon": "mages/bikechamp/bikechamp.png"
+  },
+  {
+    "name": "Bike Champ 2",
+    "image": "icons/bikechamp2.png",
+    "url": "mages/bikechamp2/index.html",
+    "category": "Game",
+    "favicon": "mages/bikechamp2/bikechamp2.png"
+  },
+  {
+    "name": "Bitlife",
+    "image": "icons/bitlife.png",
+    "url": "mages/bitlife/index.html",
+    "category": "Game",
+    "favicon": "mages/bitlife/bitlife.png"
+  },
+  {
+    "name": "Bitplanes",
+    "image": "icons/bitplanes.png",
+    "url": "mages/bitplanes/index.html",
+    "category": "Game",
+    "favicon": "mages/bitplanes/bitplanes.png"
+  },
+  {
+    "name": "Block Zappers",
+    "image": "icons/blockzappers.png",
+    "url": "mages/blockzappers/index.html",
+    "category": "Game",
+    "favicon": "mages/blockzappers/blockzappers.png"
+  },
+  {
+    "name": "Block Blast",
+    "image": "icons/blockblast.png",
+    "url": "mages/blockblast/index.html",
+    "category": "Game",
+    "favicon": "mages/blockblast/blockblast.png"
+  },
+  {
+    "name": "Blood Tournament",
+    "image": "icons/bloodtournament.png",
+    "url": "mages/bloodtournament/index.html",
+    "category": "Game",
+    "favicon": "mages/bloodtournament/bloodtournament.png"
+  },
+  {
+    "name": "Bloons Tower Defense",
+    "image": "icons/bloonstowerdefense.png",
+    "url": "mages/bloonstowerdefense/index.html",
+    "category": "Game",
+    "favicon": "mages/bloonstowerdefense/bloonstowerdefense.png"
+  },
+  {
+    "name": "Bloons Tower Defense 2",
+    "image": "icons/bloonstowerdefense2.png",
+    "url": "mages/bloonstowerdefense2/index.html",
+    "category": "Game",
+    "favicon": "mages/bloonstowerdefense2/bloonstowerdefense2.png"
+  },
+  {
+    "name": "Bloons Tower Defense 3",
+    "image": "icons/bloonstowerdefense3.png",
+    "url": "mages/bloonstowerdefense3/index.html",
+    "category": "Game",
+    "favicon": "mages/bloonstowerdefense3/bloonstowerdefense3.png"
+  },
+  {
+    "name": "Bloons Tower Defense 4",
+    "image": "icons/bloonstowerdefense4.png",
+    "url": "mages/bloonstowerdefense4/index.html",
+    "category": "Game",
+    "favicon": "mages/bloonstowerdefense4/bloonstowerdefense4.png"
+  },
+  {
+    "name": "Bloons Tower Defense 5",
+    "image": "icons/bloonstowerdefense5.png",
+    "url": "mages/bloonstowerdefense5/index.html",
+    "category": "Game",
+    "favicon": "mages/bloonstowerdefense5/bloonstowerdefense5.png"
+  },
+  {
+    "name": "Bloons Tower Defense 6",
+    "image": "icons/bloonstowerdefense6.png",
+    "url": "mages/bloonstowerdefense6/index.html",
+    "category": "Game",
+    "favicon": "mages/bloonstowerdefense6/bloonstowerdefense6.png"
+  },
+  {
+    "name": "Bob The Robber 2",
+    "image": "icons/bobtherobber2.png",
+    "url": "mages/bobtherobber2/index.html",
+    "category": "Game",
+    "favicon": "mages/bobtherobber2/bobtherobber2.png"
+  },
+  {
+    "name": "Boxing Physics 2",
+    "image": "icons/boxingphysics2.png",
+    "url": "mages/boxingphysics2/index.html",
+    "category": "Game",
+    "favicon": "mages/boxingphysics2/boxingphysics2.png"
+  },
+  {
+    "name": "Bubble Shooter",
+    "image": "icons/bubbleshooter.png",
+    "url": "mages/bubbleshooter/index.html",
+    "category": "Game",
+    "favicon": "mages/bubbleshooter/bubbleshooter.png"
+  },
+  {
+    "name": "Bullet Fury",
+    "image": "icons/bulletfury.png",
+    "url": "mages/bulletfury/index.html",
+    "category": "Game",
+    "favicon": "mages/bulletfury/bulletfury.png"
+  },
+  {
+    "name": "Burger And Frights",
+    "image": "icons/burgerandfrights.png",
+    "url": "mages/burgerandfrights/index.html",
+    "category": "Game",
+    "favicon": "mages/burgerandfrights/burgerandfrights.png"
+  },
+  {
+    "name": "Burrito Bison",
+    "image": "icons/burritobison.png",
+    "url": "mages/burritobison/index.html",
+    "category": "Game",
+    "favicon": "mages/burritobison/burritobison.png"
+  },
+  {
+    "name": "Bus And Subway Runner",
+    "image": "icons/busandsubwayrunner.png",
+    "url": "mages/busandsubwayrunner/index.html",
+    "category": "Game",
+    "favicon": "mages/busandsubwayrunner/busandsubwayrunner.png"
+  },
+  {
+    "name": "Celeste",
+    "image": "icons/celeste.png",
+    "url": "mages/celeste/index.html",
+    "category": "Game",
+    "favicon": "mages/celeste/celeste.png"
+  },
+  {
+    "name": "Minecraft",
+    "image": "icons/eaglercraft.png",
+    "url": "mages/eaglercraft/index.html",
+    "category": "Game",
+    "favicon": "mages/eaglercraft/eaglercraft.png"
+  },
+  {
+    "name": "Cell Machine",
+    "image": "icons/cellmachine.png",
+    "url": "mages/cellmachine/index.html",
+    "category": "Game",
+    "favicon": "mages/cellmachine/cellmachine.png"
+  },
+  {
+    "name": "Champion Island",
+    "image": "icons/championisland.png",
+    "url": "mages/championisland/index.html",
+    "category": "Game",
+    "favicon": "mages/championisland/championisland.png"
+  },
+  {
+    "name": "Chess",
+    "image": "icons/chess.png",
+    "url": "mages/chess/index.html",
+    "category": "Game",
+    "favicon": "mages/chess/chess.png"
+  },
+  {
+    "name": "Chibi Knight",
+    "image": "icons/chibiknight.png",
+    "url": "mages/chibiknight/index.html",
+    "category": "Game",
+    "favicon": "mages/chibiknight/chibiknight.png"
+  },
+  {
+    "name": "Circloo",
+    "image": "icons/circloo.png",
+    "url": "mages/circloo/index.html",
+    "category": "Game",
+    "favicon": "mages/circloo/circloo.png"
+  },
+  {
+    "name": "Clicker Heroes",
+    "image": "icons/clickerheroes.png",
+    "url": "mages/clickerheroes/index.html",
+    "category": "Game",
+    "favicon": "mages/clickerheroes/clickerheroes.png"
+  },
+  {
+    "name": "Cluster Rush",
+    "image": "icons/clusterrush.png",
+    "url": "mages/clusterrush/index.html",
+    "category": "Game",
+    "favicon": "mages/clusterrush/clusterrush.png"
+  },
+  {
+    "name": "Color Switch",
+    "image": "icons/colorswitch.png",
+    "url": "mages/colorswitch/index.html",
+    "category": "Game",
+    "favicon": "mages/colorswitch/colorswitch.png"
+  },
+  {
+    "name": "Commodore Clicker",
+    "image": "icons/commodoreclicker.png",
+    "url": "mages/commodoreclicker/index.html",
+    "category": "Game",
+    "favicon": "mages/commodoreclicker/commodoreclicker.png"
+  },
+  {
+    "name": "Connect 4",
+    "image": "icons/connect4.png",
+    "url": "mages/connect4/index.html",
+    "category": "Game",
+    "favicon": "mages/connect4/connect4.png"
+  },
+  {
+    "name": "Cookie Clicker",
+    "image": "icons/cookieclicker.png",
+    "url": "mages/cookieclicker/index.html",
+    "category": "Game",
+    "favicon": "mages/cookieclicker/cookieclicker.png"
+  },
+  {
+    "name": "Copter",
+    "image": "icons/copter.png",
+    "url": "mages/copter/index.html",
+    "category": "Game",
+    "favicon": "mages/copter/copter.png"
+  },
+  {
+    "name": "Corporation Inc",
+    "image": "icons/corporationinc.png",
+    "url": "mages/corporationinc/index.html",
+    "category": "Game",
+    "favicon": "mages/corporationinc/corporationinc.png"
+  },
+  {
+    "name": "Crazy Tunnel",
+    "image": "icons/crazytunnel.png",
+    "url": "mages/crazytunne;/index.html",
+    "category": "Game",
+    "favicon": "mages/crazytunnel/crazytunnel.png"
+  },
+  {
+    "name": "Crazy Flasher 2",
+    "image": "icons/crazyflasher2.png",
+    "url": "mages/crazyflasher2/index.html",
+    "category": "Game",
+    "favicon": "mages/crazyflasher2/crazyflasher2.png"
+  },
+  {
+    "name": "Crazy Flasher 3",
+    "image": "icons/crazyflasher3.png",
+    "url": "mages/crazyflasher3/index.html",
+    "category": "Game",
+    "favicon": "mages/crazyflasher3/crazyflasher3.png"
+  },
+  {
+    "name": "Crazy Flasher 4",
+    "image": "icons/crazyflasher4.png",
+    "url": "mages/crazyflasher4/index.html",
+    "category": "Game",
+    "favicon": "mages/crazyflasher4/crazyflasher4.png"
+  },
+  {
+    "name": "Crazy Flasher 5",
+    "image": "icons/crazyflasher5.png",
+    "url": "mages/crazyflasher5/index.html",
+    "category": "Game",
+    "favicon": "mages/crazyflasher5/crazyflasher5.png"
+  },
+  {
+    "name": "Crazy Flasher 6",
+    "image": "icons/crazyflasher6.png",
+    "url": "mages/crazyflasher6/index.html",
+    "category": "Game",
+    "favicon": "mages/crazyflasher6/crazyflasher6.png"
+  },
+  {
+    "name": "Crazy Taxi",
+    "image": "icons/crazytaxi.png",
+    "url": "mages/crazytaxi/index.html",
+    "category": "Game",
+    "favicon": "mages/crazytaxi/crazytaxi.png"
+  },
+  {
+    "name": "Creep Craft 2",
+    "image": "icons/creepcraft2.png",
+    "url": "mages/creepcraft2/index.html",
+    "category": "Game",
+    "favicon": "mages/creepcraft2/creepcraft2.png"
+  },
+  {
+    "name": "Crimson Fantasia",
+    "image": "icons/crimsonfantasia.png",
+    "url": "mages/crimsonfantasia/index.html",
+    "category": "Game",
+    "favicon": "mages/crimsonfantasia/crimsonfantasia.png"
+  },
+  {
+    "name": "Crossy Road",
+    "image": "icons/crossyroad.png",
+    "url": "mages/crossyroad/index.html",
+    "category": "Game",
+    "favicon": "mages/crossyroad/crossyroad.png"
+  },
+  {
+    "name": "CSGO Clicker",
+    "image": "icons/csgoclicker.png",
+    "url": "mages/csgoclicker/index.html",
+    "category": "Game",
+    "favicon": "mages/csgoclicker/csgoclicker.png"
+  },
+  {
+    "name": "Cube Field",
+    "image": "icons/cubefield.png",
+    "url": "mages/cubefield/index.html",
+    "category": "Game",
+    "favicon": "mages/cubefield/cubefield.png"
+  },
+  {
+    "name": "Cut The Rope",
+    "image": "icons/cuttherope.png",
+    "url": "mages/cuttherope/index.html",
+    "category": "Game",
+    "favicon": "mages/cuttherope/cuttherope.png"
+  },
+  {
+    "name": "Cut The Rope Holiday",
+    "image": "icons/cuttheropeholiday.png",
+    "url": "mages/cuttheropeholiday/index.html",
+    "category": "Game",
+    "favicon": "mages/cuttheropeholiday/cuttheropeholiday.png"
+  },
+  {
+    "name": "Dadish",
+    "image": "icons/dadish.png",
+    "url": "mages/dadish/index.html",
+    "category": "Game",
+    "favicon": "mages/dadish/dadish.png"
+  },
+  {
+    "name": "Dadish 2",
+    "image": "icons/dadish2.png",
+    "url": "mages/dadish2/index.html",
+    "category": "Game",
+    "favicon": "mages/dadish2/dadish2.png"
+  },
+  {
+    "name": "Dadish 3",
+    "image": "icons/dadish3.png",
+    "url": "mages/dadish3/index.html",
+    "category": "Game",
+    "favicon": "mages/dadish3/dadish3.png"
+  },
+  {
+    "name": "Dante",
+    "image": "icons/dante.png",
+    "url": "mages/dante/index.html",
+    "category": "Game",
+    "favicon": "mages/dante/dante.png"
+  },
+  {
+    "name": "Death Run 3D",
+    "image": "icons/deathrun3d.png",
+    "url": "mages/deathrun3d/index.html",
+    "category": "Game",
+    "favicon": "mages/deathrun3d/deathrun3d.png"
+  },
+  {
+    "name": "Deepest Sword",
+    "image": "icons/deepestsword.png",
+    "url": "mages/deepestsword/index.html",
+    "category": "Game",
+    "favicon": "mages/deepestsword/deepestsword.png"
+  },
+  {
+    "name": "Dino",
+    "image": "icons/dino.png",
+    "url": "mages/dino/index.html",
+    "category": "Game",
+    "favicon": "mages/dino/dino.png"
+  },
+  {
+    "name": "Doge Miner",
+    "image": "icons/dogeminer.png",
+    "url": "mages/dogeminer/index.html",
+    "category": "Game",
+    "favicon": "mages/dogeminer/dogeminer.png"
+  },
+  {
+    "name": "Doge Miner 2",
+    "image": "icons/dogeminer2.png",
+    "url": "mages/dogeminer2/index.html",
+    "category": "Game",
+    "favicon": "mages/dogeminer2/dogeminer2.png"
+  },
+  {
+    "name": "Donkey Kong",
+    "image": "icons/donkeykong.png",
+    "url": "mages/donkeykong/index.html",
+    "category": "Game",
+    "favicon": "mages/donkeykong/donkeykong.png"
+  },
+  {
+    "name": "Donkey Kong 64",
+    "image": "icons/donkeykong64.png",
+    "url": "mages/donkeykong64/index.html",
+    "category": "Game",
+    "favicon": "mages/donkeykong64/donkeykong64.png"
+  },
+  {
+    "name": "Doodle Jump",
+    "image": "icons/doodlejump.png",
+    "url": "mages/doodlejump/index.html",
+    "category": "Game",
+    "favicon": "mages/doodlejump/doodlejump.png"
+  },
+  {
+    "name": "Doom",
+    "image": "icons/doom.png",
+    "url": "mages/doom/index.html",
+    "category": "Game",
+    "favicon": "mages/doom/doom.png"
+  },
+  {
+    "name": "Doom 64",
+    "image": "icons/doom64.png",
+    "url": "mages/doom64/index.html",
+    "category": "Game",
+    "favicon": "mages/doom64/doom64.png"
+  },
+  {
+    "name": "Doom WASM",
+    "image": "icons/doomwasm.png",
+    "url": "mages/doomwasm/index.html",
+    "category": "Game",
+    "favicon": "mages/doomwasm/doomwasm.png"
+  },
+  {
+    "name": "Poom",
+    "image": "icons/poom.png",
+    "url": "mages/poom/index.html",
+    "category": "Game",
+    "favicon": "mages/poom/poom.png"
+  },
+  {
+    "name": "Draw Climber",
+    "image": "icons/drawclimber.png",
+    "url": "mages/drawclimber/index.html",
+    "category": "Game",
+    "favicon": "mages/drawclimber/drawclimber.png"
+  },
+  {
+    "name": "Drift Boss",
+    "image": "icons/driftboss.png",
+    "url": "mages/driftboss/index.html",
+    "category": "Game",
+    "favicon": "mages/driftboss/driftboss.png"
+  },
+  {
+    "name": "Drift Hunters",
+    "image": "icons/drifthunters.png",
+    "url": "mages/drifthunters/index.html",
+    "category": "Game",
+    "favicon": "mages/drifthunters/drifthunters.png"
+  },
+  {
+    "name": "Drift King",
+    "image": "icons/driftking.png",
+    "url": "mages/driftking/index.html",
+    "category": "Game",
+    "favicon": "mages/driftking/driftking.png"
+  },
+  {
+    "name": "Drift Mania",
+    "image": "icons/driftmania.png",
+    "url": "mages/driftmania/index.html",
+    "category": "Game",
+    "favicon": "mages/driftmania/driftmania.png"
+  },
+  {
+    "name": "Drive Mad",
+    "image": "icons/drivemad.png",
+    "url": "mages/drivemad/index.html",
+    "category": "Game",
+    "favicon": "mages/drivemad/drivemad.png"
+  },
+  {
+    "name": "Monster Tracks",
+    "image": "icons/monstertracks.png",
+    "url": "mages/monstertracks/index.html",
+    "category": "Game",
+    "favicon": "mages/monstertracks/monstertracks.png"
+  },
+  {
+    "name": "Driving Force 4",
+    "image": "icons/drivingforce4.png",
+    "url": "mages/drivingforce4/index.html",
+    "category": "Game",
+    "favicon": "mages/drivingforce4/drivingforce4.png"
+  },
+  {
+    "name": "Duck Life 1",
+    "image": "icons/ducklife1.png",
+    "url": "mages/ducklife1/index.html",
+    "category": "Game",
+    "favicon": "mages/ducklife1/ducklife1.png"
+  },
+  {
+    "name": "Duck Life 2",
+    "image": "icons/ducklife2.png",
+    "url": "mages/ducklife2/index.html",
+    "category": "Game",
+    "favicon": "mages/ducklife2/ducklife2.png"
+  },
+  {
+    "name": "Duck Life 3",
+    "image": "icons/ducklife3.png",
+    "url": "mages/ducklife3/index.html",
+    "category": "Game",
+    "favicon": "mages/ducklife3/ducklife3.png"
+  },
+  {
+    "name": "Duck Life 4",
+    "image": "icons/ducklife4.png",
+    "url": "mages/ducklife4/index.html",
+    "category": "Game",
+    "favicon": "mages/ducklife4/ducklife4.png"
+  },
+  {
+    "name": "Duck Life 5",
+    "image": "icons/ducklife5.png",
+    "url": "mages/ducklife5/index.html",
+    "category": "Game",
+    "favicon": "mages/ducklife5/ducklife5.png"
+  },
+  {
+    "name": "Duck Life 6",
+    "image": "icons/ducklife6.png",
+    "url": "mages/ducklife6/index.html",
+    "category": "Game",
+    "favicon": "mages/ducklife6/ducklife6.png"
+  },
+  {
+    "name": "Earn To Die",
+    "image": "icons/earntodie.png",
+    "url": "mages/earntodie/index.html",
+    "category": "Game",
+    "favicon": "mages/earntodie/earntodie.png"
+  },
+  {
+    "name": "Eggy Car",
+    "image": "icons/eggycar.png",
+    "url": "mages/eggycar/index.html",
+    "category": "Game",
+    "favicon": "mages/eggycar/eggycar.png"
+  },
+  {
+    "name": "Escaping The Prison",
+    "image": "icons/escapingtheprison.png",
+    "url": "mages/escapingtheprison/index.html",
+    "category": "Game",
+    "favicon": "mages/escapingtheprison/escapingtheprison.png"
+  },
+  {
+    "name": "Stealing The Diamond",
+    "image": "icons/stealingthediamond.png",
+    "url": "mages/stealingthediamond/index.html",
+    "category": "Game",
+    "favicon": "mages/stealingthediamond/stealingthediamond.png"
+  },
+  {
+    "name": "Breaking The Bank",
+    "image": "icons/breakingthebank.png",
+    "url": "mages/breakingthebank/index.html",
+    "category": "Game",
+    "favicon": "mages/breakingthebank/breakingthebank.png"
+  },
+  {
+    "name": "Infiltrating The Airship",
+    "image": "icons/infiltratingtheairship.png",
+    "url": "mages/infiltratingtheairship/index.html",
+    "category": "Game",
+    "favicon": "mages/infiltratingtheairship/infiltratingtheairship.png"
+  },
+  {
+    "name": "Factory Balls",
+    "image": "icons/factoryballs.png",
+    "url": "mages/factoryballs/index.html",
+    "category": "Game",
+    "favicon": "mages/factoryballs/factoryballs.png"
+  },
+  {
+    "name": "Factory Balls Forever",
+    "image": "icons/factoryballsforever.png",
+    "url": "mages/factoryballsforever/index.html",
+    "category": "Game",
+    "favicon": "mages/factoryballsforever/factoryballsforever.png"
+  },
+  {
+    "name": "Fancy Pants Adventures",
+    "image": "icons/fancypantsadventures.png",
+    "url": "mages/fancypantsadventures/index.html",
+    "category": "Game",
+    "favicon": "mages/fancypantsadventures/fancypantsadventures.png"
+  },
+  {
+    "name": "Fancy Pants Adventures 2",
+    "image": "icons/fancypantsadventures2.png",
+    "url": "mages/fancypantsadventures2/index.html",
+    "category": "Game",
+    "favicon": "mages/fancypantsadventures2/fancypantsadventures2.png"
+  },
+  {
+    "name": "Final Ninja",
+    "image": "icons/finalninja.png",
+    "url": "mages/finalninja/index.html",
+    "category": "Game",
+    "favicon": "mages/finalninja/finalninja.png"
+  },
+  {
+    "name": "Fireboy Watergirl",
+    "image": "icons/fireboywatergirl.png",
+    "url": "mages/fireboywatergirl/index.html",
+    "category": "Game",
+    "favicon": "mages/fireboywatergirl/fireboywatergirl.png"
+  },
+  {
+    "name": "Fireboy Watergirl 2",
+    "image": "icons/fireboywatergirl2.png",
+    "url": "mages/fireboywatergirl2/index.html",
+    "category": "Game",
+    "favicon": "mages/fireboywatergirl2/fireboywatergirl2.png"
+  },
+  {
+    "name": "Fireboy Watergirl 3",
+    "image": "icons/fireboywatergirl3.png",
+    "url": "mages/fireboywatergirl3/index.html",
+    "category": "Game",
+    "favicon": "mages/fireboywatergirl3/fireboywatergirl3.png"
+  },
+  {
+    "name": "Fireboy Watergirl 4",
+    "image": "icons/fireboywatergirl4.png",
+    "url": "mages/fireboywatergirl4/index.html",
+    "category": "Game",
+    "favicon": "mages/fireboywatergirl4/fireboywatergirl4.png"
+  },
+  {
+    "name": "Flappy 2048",
+    "image": "icons/flappy2048.png",
+    "url": "mages/flappy2048/index.html",
+    "category": "Game",
+    "favicon": "mages/flappy2048/flappy2048.png"
+  },
+  {
+    "name": "Flappy Bird",
+    "image": "icons/flappybird.png",
+    "url": "mages/flappybird/index.html",
+    "category": "Game",
+    "favicon": "mages/flappybird/flappybird.png"
+  },
+  {
+    "name": "Flappy Bounce",
+    "image": "icons/flappybirdbounce.png",
+    "url": "mages/flappybirdbounce/index.html",
+    "category": "Game",
+    "favicon": "mages/flappybirdbounce/flappybirdbounce.png"
+  },
+  {
+    "name": "Flappy Copter",
+    "image": "icons/flappycopter.png",
+    "url": "mages/flappycopter/index.html",
+    "category": "Game",
+    "favicon": "mages/flappycopter/flappycopter.png"
+  },
+  {
+    "name": "Flappy Dino",
+    "image": "icons/flappydino.png",
+    "url": "mages/flappydino/index.html",
+    "category": "Game",
+    "favicon": "mages/flappydino/flappydino.png"
+  },
+  {
+    "name": "Flappy Duck",
+    "image": "icons/flappyduck.png",
+    "url": "mages/flappyduck/index.html",
+    "category": "Game",
+    "favicon": "mages/flappyduck/flappyduck.png"
+  },
+  {
+    "name": "Flappy Plane",
+    "image": "icons/flappyplane.png",
+    "url": "mages/flappyplane/index.html",
+    "category": "Game",
+    "favicon": "mages/flappyplane/flappyplane.png"
+  },
+  {
+    "name": "Flappy Race",
+    "image": "icons/flappyrace.png",
+    "url": "mages/flappyrace/index.html",
+    "category": "Game",
+    "favicon": "mages/flappyrace/flappyrace.png"
+  },
+  {
+    "name": "Flash Flappy",
+    "image": "icons/flashflappy.png",
+    "url": "mages/flashflappy/index.html",
+    "category": "Game",
+    "favicon": "mages/flashflappy/flashflappy.png"
+  },
+  {
+    "name": "Fleeing The Complex",
+    "image": "icons/fleeingthecomplex.png",
+    "url": "mages/fleeingthecomplex/index.html",
+    "category": "Game",
+    "favicon": "mages/fleeingthecomplex/fleeingthecomplex.png"
+  },
+  {
+    "name": "Flippy Fish",
+    "image": "icons/flippyfish.png",
+    "url": "mages/flippyfish/index.html",
+    "category": "Game",
+    "favicon": "mages/flippyfish/flippyfish.png"
+  },
+  {
+    "name": "Five Night's At Winston's",
+    "image": "icons/fivenightsatwinstons.png",
+    "url": "mages/fivenightsatwinstons/index.html",
+    "category": "Game",
+    "favicon": "mages/fivenightsatwinstons/fivenightsatwinstons.png"
+  },
+  {
+    "name": "Five Night's At Freddy's",
+    "image": "icons/fnaf.gif",
+    "url": "mages/fnaf/index.html",
+    "category": "Game",
+    "favicon": "mages/fnaf/fnaf.png"
+  },
+  {
+    "name": "Five Night's At Freddy's 2",
+    "image": "icons/fnaf2.png",
+    "url": "mages/fnaf2/index.html",
+    "category": "Game",
+    "favicon": "mages/fnaf2/fnaf2.png"
+  },
+  {
+    "name": "Five Night's At Freddy's 3",
+    "image": "icons/fnaf3.png",
+    "url": "mages/fnaf3/index.html",
+    "category": "Game",
+    "favicon": "mages/fnaf3/fnaf3.png"
+  },
+  {
+    "name": "Five Night's At Freddy's 4",
+    "image": "icons/fnaf4.png",
+    "url": "mages/fnaf4/index.html",
+    "category": "Game",
+    "favicon": "mages/fnaf4/fnaf4.png"
+  },
+  {
+    "name": "Evolution",
+    "image": "icons/evolution.png",
+    "url": "mages/evolution/index.html",
+    "category": "Game",
+    "favicon": "mages/evolution/evolution.png"
+  },
+  {
+    "name": "Evil Glitch",
+    "image": "icons/evilglitch.png",
+    "url": "mages/evilglitch/index.html",
+    "category": "Game",
+    "favicon": "mages/evilglitch/evilglitch.png"
+  },
+  {
+    "name": "Fort",
+    "image": "icons/fort.png",
+    "url": "mages/fort/index.html",
+    "category": "Game",
+    "favicon": "mages/fort/fort.png"
+  },
+  {
+    "name": "Friday Night Funkin",
+    "image": "icons/fridaynightfunkin.png",
+    "url": "mages/fridaynightfunkin/index.html",
+    "category": "Game",
+    "favicon": "mages/fridaynightfunkin/fridaynightfunkin.png"
+  },
+  {
+    "name": "Friday Night Funkin Mid Fight",
+    "image": "icons/fridaynightfunkinmidfight.png",
+    "url": "mages/fridaynightfunkinmidfight/index.html",
+    "category": "Game",
+    "favicon": "mages/fridaynightfunkinmidfight/fridaynightfunkinmidfight.png"
+  },
+  {
+    "name": "Frogger",
+    "image": "icons/frogger.png",
+    "url": "mages/frogger/index.html",
+    "category": "Game",
+    "favicon": "mages/frogger/frogger.png"
+  },
+  {
+    "name": "Fruit Cuts 3D",
+    "image": "icons/fruitcuts3d.png",
+    "url": "mages/fruitcuts3d/index.html",
+    "category": "Game",
+    "favicon": "mages/fruitcuts3d/fruitcuts3d.png"
+  },
+  {
+    "name": "Fruit Ninja",
+    "image": "icons/fruitninja.png",
+    "url": "mages/fruitninja/index.html",
+    "category": "Game",
+    "favicon": "mages/fruitninja/fruitninja.png"
+  },
+  {
+    "name": "Funny Ball Game",
+    "image": "icons/funnyballgame.png",
+    "url": "mages/funnyballgame/index.html",
+    "category": "Game",
+    "favicon": "mages/funnyballgame/funnyballgame.png"
+  },
+  {
+    "name": "Funny Mad Racing",
+    "image": "icons/funnymadracing.png",
+    "url": "mages/funnymadracing/index.html",
+    "category": "Game",
+    "favicon": "mages/funnymadracing/funnymadracing.png"
+  },
+  {
+    "name": "Funny Shooter",
+    "image": "icons/funnyshooter.png",
+    "url": "mages/funnyshooter/index.html",
+    "category": "Game",
+    "favicon": "mages/funnyshooter/funnyshooter.png"
+  },
+  {
+    "name": "Funny Shooter 2",
+    "image": "icons/funnyshooter2.png",
+    "url": "mages/funnyshooter2/index.html",
+    "category": "Game",
+    "favicon": "mages/funnyshooter2/funnyshooter2.png"
+  },
+  {
+    "name": "Roblox",
+    "image": "icons/fakevirus.png",
+    "url": "mages/fakevirus/index.html",
+    "category": "Game",
+    "favicon": "mages/fakevirus/fakevirus.png"
+  },
+  {
+    "name": "You Are An Idiot",
+    "image": "icons/youareanidiot.png",
+    "url": "mages/youareanidiot/index.html",
+    "category": "Game",
+    "favicon": "mages/youareanidiot/youareanidiot.png"
+  },
+  {
+    "name": "Exo",
+    "image": "icons/exo.png",
+    "url": "mages/exo/index.html",
+    "category": "Game",
+    "favicon": "mages/exo/exo.png"
+  },
+  {
+    "name": "Game Maker",
+    "image": "icons/gamemaker.png",
+    "url": "mages/gamemaker/index.html",
+    "category": "Game",
+    "favicon": "mages/gamemaker/gamemaker.png"
+  },
+  {
+    "name": "Geometry Dash",
+    "image": "icons/geometrydash.png",
+    "url": "mages/geometrydash/index.html",
+    "category": "Game",
+    "favicon": "mages/geometrydash/geometrydash.png"
+  },
+  {
+    "name": "Geometry Dash Lite",
+    "image": "icons/geometrydashlite.png",
+    "url": "mages/geometrydashlite/index.html",
+    "category": "Game",
+    "favicon": "mages/geometrydashlite/geometrydashlite.png"
+  },
+  {
+    "name": "Fantasy Dash",
+    "image": "icons/fantasydash.png",
+    "url": "mages/fantasydash/index.html",
+    "category": "Game",
+    "favicon": "mages/fantasydash/fantasydash.png"
+  },
+  {
+    "name": "Geometry Jump",
+    "image": "icons/geometryjump.png",
+    "url": "mages/geometryjump/index.html",
+    "category": "Game",
+    "favicon": "mages/geometryjump/geometryjump.png"
+  },
+  {
+    "name": "Geometry Melt",
+    "image": "icons/geometrymelt.png",
+    "url": "mages/geometrymelt/index.html",
+    "category": "Game",
+    "favicon": "mages/geometrymelt/geometrymelt.png"
+  },
+  {
+    "name": "Geometry Rash",
+    "image": "icons/geometryrash.png",
+    "url": "mages/geometryrash/index.html",
+    "category": "Game",
+    "favicon": "mages/geometryrash/geometryrash.png"
+  },
+  {
+    "name": "Getaway Shooter",
+    "image": "icons/getawayshooter.png",
+    "url": "mages/getawayshooter/index.html",
+    "category": "Game",
+    "favicon": "mages/getawayshooter/getawayshooter.png"
+  },
+  {
+    "name": "Gladihoppers",
+    "image": "icons/gladihoppers.png",
+    "url": "mages/gladihoppers/index.html",
+    "category": "Game",
+    "favicon": "mages/gladihoppers/gladihoppers.png"
+  },
+  {
+    "name": "Glassworks",
+    "image": "icons/glassworks.png",
+    "url": "mages/glassworks/index.html",
+    "category": "Game",
+    "favicon": "mages/glassworks/glassworks.png"
+  },
+  {
+    "name": "Gloom",
+    "image": "icons/gloom.png",
+    "url": "mages/gloom/index.html",
+    "category": "Game",
+    "favicon": "mages/gloom/gloom.png"
+  },
+  {
+    "name": "Gold Digger FRVR",
+    "image": "icons/golddiggerfrvr.png",
+    "url": "mages/golddiggerfrvr/index.html",
+    "category": "Game",
+    "favicon": "mages/golddiggerfrvr/golddiggerfrvr.png"
+  },
+  {
+    "name": "Goldeneye",
+    "image": "icons/goldeneye.png",
+    "url": "mages/goldeneye/index.html",
+    "category": "Game",
+    "favicon": "mages/goldeneye/goldeneye.png"
+  },
+  {
+    "name": "Defend The Tank",
+    "image": "icons/defendthetank.png",
+    "url": "mages/defendthetank/index.html",
+    "category": "Game",
+    "favicon": "mages/defendthetank/defendthetank.png"
+  },
+  {
+    "name": "Alien Hominid",
+    "image": "icons/alienhominid.png",
+    "url": "mages/alienhominid/index.html",
+    "category": "Game",
+    "favicon": "mages/alienhominid/alienhominid.png"
+  },
+  {
+    "name": "Dumb Ways To Die",
+    "image": "icons/dumbwaystodie.png",
+    "url": "mages/dumbwaystodie/index.html",
+    "category": "Game",
+    "favicon": "mages/dumbwaystodie/dumbwaystodie.png"
+  },
+  {
+    "name": "Advance GTA",
+    "image": "icons/advancegta.png",
+    "url": "mages/advancegta/index.html",
+    "category": "Game",
+    "favicon": "mages/advancegta/advancegta.png"
+  },
+  {
+    "name": "Grand Shift Auto",
+    "image": "icons/grandshiftauto.png",
+    "url": "mages/grandshiftauto/index.html",
+    "category": "Game",
+    "favicon": "mages/grandshiftauto/grandshiftauto.png"
+  },
+  {
+    "name": "Grand Theft Auto",
+    "image": "icons/grandtheftauto.png",
+    "url": "mages/grandtheftauto/index.html",
+    "category": "Game",
+    "favicon": "mages/grandtheftauto/grandtheftauto.png"
+  },
+  {
+    "name": "Grand Theft Auto 2",
+    "image": "icons/grandtheftauto2.png",
+    "url": "mages/grandtheftauto2/index.html",
+    "category": "Game",
+    "favicon": "mages/grandtheftauto2/grandtheftauto2.png"
+  },
+  {
+    "name": "Grand Theft Auto 3",
+    "image": "icons/grandtheftauto3.png",
+    "url": "mages/grandtheftauto3/index.html",
+    "category": "Game",
+    "favicon": "mages/grandtheftauto3/grandtheftauto3.png"
+  },
+  {
+    "name": "Grand Theft Grotto",
+    "image": "icons/grandtheftgrotto.png",
+    "url": "mages/grandtheftgrotto/index.html",
+    "category": "Game",
+    "favicon": "mages/grandtheftgrotto/grandtheftgrotto.png"
+  },
+  {
+    "name": "Grand Truckismo",
+    "image": "icons/grandtruckismo.png",
+    "url": "mages/grandtruckismo/index.html",
+    "category": "Game",
+    "favicon": "mages/grandtruckismo/grandtruckismo.png"
+  },
+  {
+    "name": "Guilty Gear X",
+    "image": "icons/guiltygearx.png",
+    "url": "mages/guiltygearx/index.html",
+    "category": "Game",
+    "favicon": "mages/guiltygearx/guiltygearx.png"
+  },
+  {
+    "name": "Among Us",
+    "image": "icons/amongus.png",
+    "url": "mages/amongus/index.html",
+    "category": "Game",
+    "favicon": "mages/amongus/amongus.png"
+  },
+  {
+    "name": "Among Us Online",
+    "image": "icons/amongusonline.png",
+    "url": "mages/amongusonline/index.html",
+    "category": "Game",
+    "favicon": "mages/amongusonline/amongus.png"
+  },
+  {
+    "name": "Gummibar",
+    "image": "icons/gummibar.png",
+    "url": "mages/gummibar/index.html",
+    "category": "Game",
+    "favicon": "mages/gummibar/gummibar.png"
+  },
+  {
+    "name": "Gunbrick",
+    "image": "icons/gunbrick.png",
+    "url": "mages/gunbrick/index.html",
+    "category": "Game",
+    "favicon": "mages/gunbrick/gunbrick.png"
+  },
+  {
+    "name": "Gunfest",
+    "image": "icons/gunfest.png",
+    "url": "mages/gunfest/index.html",
+    "category": "Game",
+    "favicon": "mages/gunfest/gunfest.png"
+  },
+  {
+    "name": "Gunknight",
+    "image": "icons/gunknight.png",
+    "url": "mages/gunknight/index.html",
+    "category": "Game",
+    "favicon": "mages/gunknight/gunknight.png"
+  },
+  {
+    "name": "Gun Mayhem",
+    "image": "icons/gunmayhem.png",
+    "url": "mages/gunmayhem/index.html",
+    "category": "Game",
+    "favicon": "mages/gunmayhem/gunmayhem.png"
+  },
+  {
+    "name": "Gun Mayhem 2",
+    "image": "icons/gunmayhem2.png",
+    "url": "mages/gunmayhem2/index.html",
+    "category": "Game",
+    "favicon": "mages/gunmayhem2/gunmayhem2.png"
+  },
+  {
+    "name": "Gun Mayhem Redux",
+    "image": "icons/gunmayhemredux.png",
+    "url": "mages/gunmayhemredux/index.html",
+    "category": "Game",
+    "favicon": "mages/gunmayhemredux/gunmayhemredux.png"
+  },
+  {
+    "name": "Half Life 2",
+    "image": "icons/halflife2.png",
+    "url": "mages/halflife2/index.html",
+    "category": "Game",
+    "favicon": "mages/halflife2/halflife2.png"
+  },
+  {
+    "name": "Halloween 2016",
+    "image": "icons/halloween2016.png",
+    "url": "mages/halloween2016/index.html",
+    "category": "Game",
+    "favicon": "mages/halloween2016/halloween2016.png"
+  },
+  {
+    "name": "Happy Wheels",
+    "image": "icons/happywheels.png",
+    "url": "mages/happywheels/index.html",
+    "category": "Game",
+    "favicon": "mages/happywheels/happywheels.png"
+  },
+  {
+    "name": "Headcase",
+    "image": "icons/headcase.png",
+    "url": "mages/headcase/index.html",
+    "category": "Game",
+    "favicon": "mages/headcase/headcase.png"
+  },
+  {
+    "name": "Heist",
+    "image": "icons/heist.png",
+    "url": "mages/heist/index.html",
+    "category": "Game",
+    "favicon": "mages/heist/heist.png"
+  },
+  {
+    "name": "Helix Jump",
+    "image": "icons/helixjump.png",
+    "url": "mages/helixjump/index.html",
+    "category": "Game",
+    "favicon": "mages/helixjum/helixjump.png"
+  },
+  {
+    "name": "Hextris",
+    "image": "icons/hextris.png",
+    "url": "mages/hextris/index.html",
+    "category": "Game",
+    "favicon": "mages/hextris/hextris.png"
+  },
+  {
+    "name": "Hill Climb Racing",
+    "image": "icons/hillclimbracing.png",
+    "url": "mages/hillclimbracing/index.html",
+    "category": "Game",
+    "favicon": "mages/hillclimbracing/hillclimbracing.png"
+  },
+  {
+    "name": "Hill Climb Racing 2",
+    "image": "icons/hillclimbracing2.png",
+    "url": "mages/hillclimbracing2/index.html",
+    "category": "Game",
+    "favicon": "mages/hillclimbracing2/hillclimbracing2.png"
+  },
+  {
+    "name": "Hobo",
+    "image": "icons/hobo.png",
+    "url": "mages/hobo/index.html",
+    "category": "Game",
+    "favicon": "mages/hobo/hobo.png"
+  },
+  {
+    "name": "Hobo 2",
+    "image": "icons/hobo2.png",
+    "url": "mages/hobo2/index.html",
+    "category": "Game",
+    "favicon": "mages/hobo2/hobo2.png"
+  },
+  {
+    "name": "Hobo 3",
+    "image": "icons/hobo3.png",
+    "url": "mages/hobo3/index.html",
+    "category": "Game",
+    "favicon": "mages/hobo3/hobo3.png"
+  },
+  {
+    "name": "Hobo 4",
+    "image": "icons/hobo4.png",
+    "url": "mages/hobo4/index.html",
+    "category": "Game",
+    "favicon": "mages/hobo4/hobo4.png"
+  },
+  {
+    "name": "Hobo 5",
+    "image": "icons/hobo5.png",
+    "url": "mages/hobo5/index.html",
+    "category": "Game",
+    "favicon": "mages/hobo5/hobo5.png"
+  },
+  {
+    "name": "Hobo 6",
+    "image": "icons/hobo6.png",
+    "url": "mages/hobo6/index.html",
+    "category": "Game",
+    "favicon": "mages/hobo6/hobo6.png"
+  },
+  {
+    "name": "Hobo 7",
+    "image": "icons/hobo7.png",
+    "url": "mages/hobo7/index.html",
+    "category": "Game",
+    "favicon": "mages/hobo7/hobo7.png"
+  },
+  {
+    "name": "Hole IO",
+    "image": "icons/holeio.png",
+    "url": "mages/holeio/index.html",
+    "category": "Game",
+    "favicon": "mages/holeio/holeio.png"
+  },
+  {
+    "name": "House Of Hazards",
+    "image": "icons/houseofhazards.png",
+    "url": "mages/houseofhazards/index.html",
+    "category": "Game",
+    "favicon": "mages/houseofhazards/houseofhazards.png"
+  },
+  {
+    "name": "Idle Breakout",
+    "image": "icons/idlebreakout.png",
+    "url": "mages/idlebreakout/index.html",
+    "category": "Game",
+    "favicon": "mages/idlebreakout/idlebreakout.png"
+  },
+  {
+    "name": "Idle Research",
+    "image": "icons/idleresearch.png",
+    "url": "mages/idleresearch/index.html",
+    "category": "Game",
+    "favicon": "mages/idleresearch/idleresearch.png"
+  },
+  {
+    "name": "Idle Shark",
+    "image": "icons/idleshark.png",
+    "url": "mages/idleshark/index.html",
+    "category": "Game",
+    "favicon": "mages/idleshark/idleshark.png"
+  },
+  {
+    "name": "I Wanna Be The Creator",
+    "image": "icons/iwbtc.png",
+    "url": "mages/iwbtc/index.html",
+    "category": "Game",
+    "favicon": "mages/iwbtc/iwbtc.png"
+  },
+  {
+    "name": "Jake's Jingle Quest",
+    "image": "icons/jakesjinglequest.png",
+    "url": "mages/jakesjinglequest/index.html",
+    "category": "Game",
+    "favicon": "mages/jakesjinglequest/jakesjinglequest.png"
+  },
+  {
+    "name": "Jetpack Joyride",
+    "image": "icons/jetpackjoyride.png",
+    "url": "mages/jetpackjoyride/index.html",
+    "category": "Game",
+    "favicon": "mages/jetpackjoyride/jetpackjoyride.png"
+  },
+  {
+    "name": "Jewel",
+    "image": "icons/jewel.png",
+    "url": "mages/jewel/index.html",
+    "category": "Game",
+    "favicon": "mages/jewel/jewel.png"
+  },
+  {
+    "name": "Just Fall LOL",
+    "image": "icons/justfalllol.png",
+    "url": "mages/justfalllol/index.html",
+    "category": "Game",
+    "favicon": "mages/justfalllol/justfalllol.png"
+  },
+  {
+    "name": "Kick That Buddy",
+    "image": "icons/kickthatbuddy.png",
+    "url": "mages/kickthatbuddy/index.html",
+    "category": "Game",
+    "favicon": "mages/kickthatbuddy/kickthatbuddy.png"
+  },
+  {
+    "name": "Knife Hit",
+    "image": "icons/knifehit.png",
+    "url": "mages/knifehit/index.html",
+    "category": "Game",
+    "favicon": "mages/knifehit/knifehit.png"
+  },
+  {
+    "name": "Last Horizon",
+    "image": "icons/lasthorizon.png",
+    "url": "mages/lasthorizon/index.html",
+    "category": "Game",
+    "favicon": "mages/lasthorizon/lasthorizon.png"
+  },
+  {
+    "name": "Lazy Jump 3D",
+    "image": "icons/lazyjump3d.png",
+    "url": "mages/lazyjump3d/index.html",
+    "category": "Game",
+    "favicon": "mages/lazyjump3d/lazyjump3d.png"
+  },
+  {
+    "name": "Learn To Fly",
+    "image": "icons/learntofly.png",
+    "url": "mages/learntofly/index.html",
+    "category": "Game",
+    "favicon": "mages/learntofly/learntofly.png"
+  },
+  {
+    "name": "Learn To Fly 2",
+    "image": "icons/learntofly2.png",
+    "url": "mages/learntofly2/index.html",
+    "category": "Game",
+    "favicon": "mages/learntofly2/learntofly2.png"
+  },
+  {
+    "name": "Learn To Fly 3",
+    "image": "icons/learntofly3.png",
+    "url": "mages/learntofly3/index.html",
+    "category": "Game",
+    "favicon": "mages/learntofly3/learntofly3.png"
+  },
+  {
+    "name": "Learn To Fly Idle",
+    "image": "icons/learntoflyidle.png",
+    "url": "mages/learntoflyidle/index.html",
+    "category": "Game",
+    "favicon": "mages/learntoflyidle/learntoflyidle.png"
+  },
+  {
+    "name": "Linerider",
+    "image": "icons/linerider.png",
+    "url": "mages/linerider/index.html",
+    "category": "Game",
+    "favicon": "mages/linerider/linerider.png"
+  },
+  {
+    "name": "Little Alchemy",
+    "image": "icons/littlealchemy.png",
+    "url": "mages/littlealchemy/index.html",
+    "category": "Game",
+    "favicon": "mages/littlealchemy/littlealchemy.png"
+  },
+  {
+    "name": "Little Alchemy 2",
+    "image": "icons/littlealchemy2.png",
+    "url": "mages/littlealchemy2/index.html",
+    "category": "Game",
+    "favicon": "mages/littlealchemy2/littlealchemy2.png"
+  },
+  {
+    "name": "Low's Adventures",
+    "image": "icons/lowsadventures2.png",
+    "url": "mages/lowsadventures/index.html",
+    "category": "Game",
+    "favicon": "mages/lowsadventures/lowsadventures.png"
+  },
+  {
+    "name": "Madalin Cars",
+    "image": "icons/madalincars.png",
+    "url": "mages/madalincars/index.html",
+    "category": "Game",
+    "favicon": "mages/madalincars/madalincars.png"
+  },
+  {
+    "name": "Madalin Stunt Cars 2",
+    "image": "icons/madalinstuntcars2.png",
+    "url": "mages/madalinstuntcars2/index.html",
+    "category": "Game",
+    "favicon": "mages/madalinstuntcars2/madalinstuntcars2.png"
+  },
+  {
+    "name": "Madalin Stunt Cars 3",
+    "image": "icons/madalinstuntcars3.png",
+    "url": "mages/madalinstuntcars3/index.html",
+    "category": "Game",
+    "favicon": "mages/madalinstuntcars3/madalinstuntcars3.png"
+  },
+  {
+    "name": "Interactive Buddy",
+    "image": "icons/interactivebuddy.png",
+    "url": "mages/interactivebuddy/index.html",
+    "category": "Game",
+    "favicon": "mages/interactivebuddy/interactivebuddy.png"
+  },
+  {
+    "name": "Mario",
+    "image": "icons/mario.png",
+    "url": "mages/mario/index.html",
+    "category": "Game",
+    "favicon": "mages/mario/mario.png"
+  },
+  {
+    "name": "Mario 63",
+    "image": "icons/mario63.png",
+    "url": "mages/mario63/index.html",
+    "category": "Game",
+    "favicon": "mages/mario63/mario63.png"
+  },
+  {
+    "name": "Super Mario 64",
+    "image": "icons/supermario64.png",
+    "url": "mages/supermario64/index.html",
+    "category": "Game",
+    "favicon": "mages/supermario64/supermario64.png"
+  },
+  {
+    "name": "Super Mario 64 DS",
+    "image": "icons/supermario64ds.png",
+    "url": "mages/supermario64ds/index.html",
+    "category": "Game",
+    "favicon": "mages/supermario64ds/supermario64ds.png"
+  },
+  {
+    "name": "Mario Kart DS",
+    "image": "icons/mariokartds.png",
+    "url": "mages/mariokartds/index.html",
+    "category": "Game",
+    "favicon": "mages/mariokartds/mariokartds.png"
+  },
+  {
+    "name": "Mario Party",
+    "image": "icons/marioparty.png",
+    "url": "mages/marioparty/index.html",
+    "category": "Game",
+    "favicon": "mages/marioparty/marioparty.png"
+  },
+  {
+    "name": "Mario Party 2",
+    "image": "icons/marioparty2.png",
+    "url": "mages/marioparty2/index.html",
+    "category": "Game",
+    "favicon": "mages/marioparty2/marioparty2.png"
+  },
+  {
+    "name": "Mario Party 3",
+    "image": "icons/marioparty3.png",
+    "url": "mages/marioparty3/index.html",
+    "category": "Game",
+    "favicon": "mages/marioparty3/marioparty3.png"
+  },
+  {
+    "name": "Mario Party DS",
+    "image": "icons/mariopartyds.png",
+    "url": "mages/mariopartyds/index.html",
+    "category": "Game",
+    "favicon": "mages/mariopartyds/mariopartyds.png"
+  },
+  {
+    "name": "Paper Mario",
+    "image": "icons/papermario.png",
+    "url": "mages/papermario/index.html",
+    "category": "Game",
+    "favicon": "mages/papermario/papermario.png"
+  },
+  {
+    "name": "Meteor Run",
+    "image": "icons/meteorrun.png",
+    "url": "mages/meteorrun/index.html",
+    "category": "Game",
+    "favicon": "mages/meteorrun/meteorrun.png"
+  },
+  {
+    "name": "Metroid Zero Mission",
+    "image": "icons/metroidzeromission.png",
+    "url": "mages/metroidzeromission/index.html",
+    "category": "Game",
+    "favicon": "mages/metroidzeromission/metroidzeromission.png"
+  },
+  {
+    "name": "Mindustry",
+    "image": "icons/mindustry.png",
+    "url": "mages/mindustry/index.html",
+    "category": "Game",
+    "favicon": "mages/mindustry/mindustry.png"
+  },
+  {
+    "name": "Minesweeper",
+    "image": "icons/minesweeper.png",
+    "url": "mages/minesweeper/index.html",
+    "category": "Game",
+    "favicon": "mages/minesweeper/minesweeper.png"
+  },
+  {
+    "name": "Minion",
+    "image": "icons/minion.png",
+    "url": "mages/minion/index.html",
+    "category": "Game",
+    "favicon": "mages/minion/minion.png"
+  },
+  {
+    "name": "Monkey Mart",
+    "image": "icons/monkeymart.png",
+    "url": "mages/monkeymart/index.html",
+    "category": "Game",
+    "favicon": "mages/monkeymart/monkeymart.png"
+  },
+  {
+    "name": "Moto X3M",
+    "image": "icons/motox3m.png",
+    "url": "mages/motox3m/index.html",
+    "category": "Game",
+    "favicon": "mages/motox3m/motox3m.png"
+  },
+  {
+    "name": "Moto X3M Pool",
+    "image": "icons/motox3mpool.png",
+    "url": "mages/motox3mpool/index.html",
+    "category": "Game",
+    "favicon": "mages/motox3mpool/motox3mpool.png"
+  },
+  {
+    "name": "Moto X3M Spooky",
+    "image": "icons/motox3mspooky.png",
+    "url": "mages/motox3mspooky/index.html",
+    "category": "Game",
+    "favicon": "mages/motox3mspooky/motox3mspooky.png"
+  },
+  {
+    "name": "Moto X3M Winter",
+    "image": "icons/motox3mwinter.png",
+    "url": "mages/motox3mwinter/index.html",
+    "category": "Game",
+    "favicon": "mages/motox3mwinter/motox3mwinter.png"
+  },
+  {
+    "name": "Mutiny",
+    "image": "icons/mutiny.png",
+    "url": "mages/mutiny/index.html",
+    "category": "Game",
+    "favicon": "mages/mutiny/mutiny.png"
+  },
+  {
+    "name": "N-gon",
+    "image": "icons/ngon.png",
+    "url": "mages/ngon/index.html",
+    "category": "Game",
+    "favicon": "mages/ngon/ngon.png"
+  },
+  {
+    "name": "Nintendogs",
+    "image": "icons/nintendogs.png",
+    "url": "mages/nintendogs/index.html",
+    "category": "Game",
+    "favicon": "mages/nintendogs/nintendogs.png"
+  },
+  {
+    "name": "Nitrome Must Die!",
+    "image": "icons/nitromemustdie.png",
+    "url": "mages/nitromemustdie/index.html",
+    "category": "Game",
+    "favicon": "mages/nitromemustdie/nitromemustdie.png"
+  },
+  {
+    "name": "Nut Simulator",
+    "image": "icons/nutsimulator.png",
+    "url": "mages/nutsimulator/index.html",
+    "category": "Game",
+    "favicon": "mages/nutsimulator/nutsimulator.png"
+  },
+  {
+    "name": "Obby",
+    "image": "icons/obby.png",
+    "url": "mages/obby/index.html",
+    "category": "Game",
+    "favicon": "mages/obby/obby.png"
+  },
+  {
+    "name": "Ocarina Of Time",
+    "image": "icons/ocarinaoftime.png",
+    "url": "mages/ocarinaoftime/index.html",
+    "category": "Game",
+    "favicon": "mages/ocarinaoftime/ocarinaoftime.png"
+  },
+  {
+    "name": "Majora's Mask",
+    "image": "icons/majorasmask.png",
+    "url": "mages/majorasmask/index.html",
+    "category": "Game",
+    "favicon": "mages/majorasmask/majorasmask.png"
+  },
+  {
+    "name": "Offline Paradise",
+    "image": "icons/offlineparadise.png",
+    "url": "mages/offlineparadise/index.html",
+    "category": "Game",
+    "favicon": "mages/offlineparadise/offlineparadise.png"
+  },
+  {
+    "name": "Offroad",
+    "image": "icons/offroad.png",
+    "url": "mages/offroad/index.html",
+    "category": "Game",
+    "favicon": "mages/offroad/offroad.png"
+  },
+  {
+    "name": "Osu",
+    "image": "icons/osu.png",
+    "url": "mages/osu/index.html",
+    "category": "Game",
+    "favicon": "mages/osu/osu.png"
+  },
+  {
+    "name": "Osu Mania",
+    "image": "icons/osumania.png",
+    "url": "mages/osumania/index.html",
+    "category": "Game",
+    "favicon": "mages/osumania/osumania.png"
+  },
+  {
+    "name": "OvO",
+    "image": "icons/ovo.png",
+    "url": "mages/ovo/index.html",
+    "category": "Game",
+    "favicon": "mages/ovo/ovo.png"
+  },
+  {
+    "name": "Pacman",
+    "image": "icons/pacman.png",
+    "url": "mages/pacman/index.html",
+    "category": "Game",
+    "favicon": "mages/pacman/pacman.png"
+  },
+  {
+    "name": "Pako Highway",
+    "image": "icons/pakohighway.png",
+    "url": "mages/pakohighway/index.html",
+    "category": "Game",
+    "favicon": "mages/pakohighway/pakohighway.png"
+  },
+  {
+    "name": "Pandemic",
+    "image": "icons/pandemic.png",
+    "url": "mages/pandemic/index.html",
+    "category": "Game",
+    "favicon": "mages/pandemic/pandemic.png"
+  },
+  {
+    "name": "Pandemic 2",
+    "image": "icons/pandemic2.png",
+    "url": "mages/pandemic2/index.html",
+    "category": "Game",
+    "favicon": "mages/pandemic2/pandemic2.png"
+  },
+  {
+    "name": "Papa's Bakeria",
+    "image": "icons/papasbakeria.png",
+    "url": "mages/papasbakeria/index.html",
+    "category": "Game",
+    "favicon": "mages/papasbakeria/papasbakeria.png"
+  },
+  {
+    "name": "Papa's Burgeria",
+    "image": "icons/papasburgeria.png",
+    "url": "mages/papasburgeria/index.html",
+    "category": "Game",
+    "favicon": "mages/papasburgeria/papasburgeria.png"
+  },
+  {
+    "name": "Papa's Cheeseria",
+    "image": "icons/papascheeseria.png",
+    "url": "mages/papascheeseria/index.html",
+    "category": "Game",
+    "favicon": "mages/papascheeseria/papascheeseria.png"
+  },
+  {
+    "name": "Papa's Donuteria",
+    "image": "icons/papasdonuteria.png",
+    "url": "mages/papasdonuteria/index.html",
+    "category": "Game",
+    "favicon": "mages/papasdonuteria/papasdonuteria.png"
+  },
+  {
+    "name": "Papa's Freezeria",
+    "image": "icons/papasfreezeria.png",
+    "url": "mages/papasfreezeria/index.html",
+    "category": "Game",
+    "favicon": "mages/papasfreezeria/papasfreezeria.png"
+  },
+  {
+    "name": "Papa's Pancakeria",
+    "image": "icons/papaspancakeria.png",
+    "url": "mages/papaspancakeria/index.html",
+    "category": "Game",
+    "favicon": "mages/papaspancakeria/papaspancakeria.png"
+  },
+  {
+    "name": "Papa's Pastaria",
+    "image": "icons/papaspastaria.png",
+    "url": "mages/papaspastaria/index.html",
+    "category": "Game",
+    "favicon": "mages/papaspastaria/papaspastaria.png"
+  },
+  {
+    "name": "Papa's Scooperia",
+    "image": "icons/papasscooperia.png",
+    "url": "mages/papasscooperia/index.html",
+    "category": "Game",
+    "favicon": "mages/papasscooperia/papasscooperia.png"
+  },
+  {
+    "name": "Papa's Sushiria",
+    "image": "icons/papassushiria.png",
+    "url": "mages/papassushiria/index.html",
+    "category": "Game",
+    "favicon": "mages/papassushiria/papassushiria.png"
+  },
+  {
+    "name": "Papa's Taco Mia!",
+    "image": "icons/papastacomia.png",
+    "url": "mages/papastacomia/index.html",
+    "category": "Game",
+    "favicon": "mages/papastacomia/papastacomia.png"
+  },
+  {
+    "name": "Papa's Wingeria",
+    "image": "icons/papaswingeria.png",
+    "url": "mages/papaswingeria/index.html",
+    "category": "Game",
+    "favicon": "mages/papaswingeria/papaswingeria.png"
+  },
+  {
+    "name": "Papa Louie: When Pizza's Attack!",
+    "image": "icons/papalouie.png",
+    "url": "mages/papalouie/index.html",
+    "category": "Game",
+    "favicon": "mages/papalouie/papalouie.png"
+  },
+  {
+    "name": "Papa Louie 2: When Burger's Attack!",
+    "image": "icons/papalouie2.png",
+    "url": "mages/papalouie2/index.html",
+    "category": "Game",
+    "favicon": "mages/papalouie2/papalouie2.png"
+  },
+  {
+    "name": "Papa Louie: When Sundae's Attack!",
+    "image": "icons/papalouie3.png",
+    "url": "mages/papalouie3/index.html",
+    "category": "Game",
+    "favicon": "mages/papalouie3/papalouie3.png"
+  },
+  {
+    "name": "Paper.io",
+    "image": "icons/paperio.png",
+    "url": "mages/paperio/index.html",
+    "category": "Game",
+    "favicon": "mages/paperio/paperio.png"
+  },
+  {
+    "name": "Age Of War",
+    "image": "icons/ageofwar.png",
+    "url": "mages/ageofwar/index.html",
+    "category": "Game",
+    "favicon": "mages/ageofwar/ageofwar.png"
+  },
+  {
+    "name": "Age Of War 2",
+    "image": "icons/ageofwar2.png",
+    "url": "mages/ageofwar2/index.html",
+    "category": "Game",
+    "favicon": "mages/ageofwar2/ageofwar2.png"
+  },
+  {
+    "name": "Ice Age Baby",
+    "image": "icons/iceagebaby.png",
+    "url": "mages/iceagebaby/index.html",
+    "category": "Game",
+    "favicon": "mages/iceagebaby/iceagebaby.png"
+  },
+  {
+    "name": "Hover Bot Arena",
+    "image": "icons/hoverbotarena.png",
+    "url": "mages/hoverbotarena/index.html",
+    "category": "Game",
+    "favicon": "mages/hoverbotarena/hoverbotarena.png"
+  },
+  {
+    "name": "Happy Hop",
+    "image": "icons/happyhop.png",
+    "url": "mages/happyhop/index.html",
+    "category": "Game",
+    "favicon": "mages/happyhop/happyhop.png"
+  },
+  {
+    "name": "Handshakes",
+    "image": "icons/handshakes.png",
+    "url": "mages/handshakes/index.html",
+    "category": "Game",
+    "favicon": "mages/handshakes/handshakes.png"
+  },
+  {
+    "name": "Hacker Typer",
+    "image": "icons/hackertype.png",
+    "url": "mages/hackertype/index.html",
+    "category": "Game",
+    "favicon": "mages/hackertype/hackertype.png"
+  },
+  {
+    "name": "Google Feud",
+    "image": "icons/googlefeud.png",
+    "url": "mages/googlefeud/index.html",
+    "category": "Game",
+    "favicon": "mages/googlefeud/googlefeud.png"
+  },
+  {
+    "name": "Glass City",
+    "image": "icons/glasscity.png",
+    "url": "mages/glasscity/index.html",
+    "category": "Game",
+    "favicon": "mages/glasscity/glasscity.png"
+  },
+  {
+    "name": "Gimme The Airpod",
+    "image": "icons/gimmetheairpod.png",
+    "url": "mages/gimmetheairpod/index.html",
+    "category": "Game",
+    "favicon": "mages/gimmetheairpod/gimmetheairpod.png"
+  },
+  {
+    "name": "Froggy's Battle",
+    "image": "icons/froggysbattle.png",
+    "url": "mages/froggysbattle/index.html",
+    "category": "Game",
+    "favicon": "mages/froggysbattle/froggysbattle.png"
+  },
+  {
+    "name": "Frying Nemo",
+    "image": "icons/fryingnemo.png",
+    "url": "mages/fryingnemo/index.html",
+    "category": "Game",
+    "favicon": "mages/fryingnemo/fryingnemo.png"
+  },
+  {
+    "name": "Hardware Tycoon",
+    "image": "icons/hardwaretycoon.png",
+    "url": "mages/hardwaretycoon/index.html",
+    "category": "Game",
+    "favicon": "mages/hardwaretycoon/hardwaretycoon.png"
+  },
+  {
+    "name": "Pickcrafter",
+    "image": "icons/pickcrafter.png",
+    "url": "mages/pickcrafter/index.html",
+    "category": "Game",
+    "favicon": "mages/pickcrafter/pickcrafter.png"
+  },
+  {
+    "name": "Grindcraft",
+    "image": "icons/grindcraft.png",
+    "url": "mages/grindcraft/index.html",
+    "category": "Game",
+    "favicon": "mages/grindcraft/grindcraft.png"
+  },
+  {
+    "name": "Pinball",
+    "image": "icons/pinball.png",
+    "url": "mages/pinball/index.html",
+    "category": "Game",
+    "favicon": "mages/pinball/pinball.png"
+  },
+  {
+    "name": "Pizza Tower",
+    "image": "icons/pizzatower.png",
+    "url": "mages/pizzatower/index.html",
+    "category": "Game",
+    "favicon": "mages/pizzatower/pizzatower.png"
+  },
+  {
+    "name": "Plants Vs Zombies",
+    "image": "icons/plantsvszombies.png",
+    "url": "mages/plantsvszombies/index.html",
+    "category": "Game",
+    "favicon": "mages/plantsvszombies/plantsvszombies.png"
+  },
+  {
+    "name": "Plunger",
+    "image": "icons/plunger.png",
+    "url": "mages/plunger/index.html",
+    "category": "Game",
+    "favicon": "mages/plunger/plunger.png"
+  },
+  {
+    "name": "Pokémon",
+    "image": "icons/pokemon.png",
+    "url": "mages/pokemon/index.html",
+    "category": "Game",
+    "favicon": "mages/pokemon/pokemon.png"
+  },
+  {
+    "name": "Polytrack",
+    "image": "icons/polytrack.png",
+    "url": "mages/polytrack/index.html",
+    "category": "Game",
+    "favicon": "mages/polytrack/polytrack.png"
+  },
+  {
+    "name": "Pong",
+    "image": "icons/pong.png",
+    "url": "mages/pong/index.html",
+    "category": "Game",
+    "favicon": "mages/pong/pong.png"
+  },
+  {
+    "name": "Pool",
+    "image": "icons/pool.png",
+    "url": "mages/pool/index.html",
+    "category": "Game",
+    "favicon": "mages/pool/pool.png"
+  },
+  {
+    "name": "Putin On The Ritz",
+    "image": "icons/putinonritz.png",
+    "url": "mages/putinonritz/index.html",
+    "category": "Game",
+    "favicon": "mages/putinonritz/putinonritz.png"
+  },
+  {
+    "name": "You Are Bezos",
+    "image": "icons/youarebezos.png",
+    "url": "mages/youarebezos/index.html",
+    "category": "Game",
+    "favicon": "mages/youarebezos/youarebezos.png"
+  },
+  {
+    "name": "Pyongyang Racer",
+    "image": "icons/pyongyangracer.png",
+    "url": "mages/pyongyangracer/index.html",
+    "category": "Game",
+    "favicon": "mages/pyongyangracer/pyongyangracer.png"
+  },
+  {
+    "name": "Quake 3",
+    "image": "icons/quake3.png",
+    "url": "mages/quake3/index.html",
+    "category": "Game",
+    "favicon": "mages/quake3/quake3.png"
+  },
+  {
+    "name": "Rabbit Rescue",
+    "image": "icons/rabbitrescue.png",
+    "url": "mages/rabbitrescue/index.html",
+    "category": "Game",
+    "favicon": "mages/rabbitrescue/rabbitrescue.png"
+  },
+  {
+    "name": "Racer",
+    "image": "icons/racer.png",
+    "url": "mages/racer/index.html",
+    "category": "Game",
+    "favicon": "mages/racer/racer.png"
+  },
+  {
+    "name": "Real Flying Truck",
+    "image": "icons/realflyingtruck.png",
+    "url": "mages/realflyingtruck/index.html",
+    "category": "Game",
+    "favicon": "mages/realflyingtruck/realflyingtruck.png"
+  },
+  {
+    "name": "Recoil",
+    "image": "icons/recoil.png",
+    "url": "mages/recoil/index.html",
+    "category": "Game",
+    "favicon": "mages/recoil/recoil.png"
+  },
+  {
+    "name": "Red Ball",
+    "image": "icons/redball.png",
+    "url": "mages/redball/index.html",
+    "category": "Game",
+    "favicon": "mages/redball/redball.png"
+  },
+  {
+    "name": "Red Ball 3",
+    "image": "icons/redball3.png",
+    "url": "mages/redball3/index.html",
+    "category": "Game",
+    "favicon": "mages/redball3/redball3.png"
+  },
+  {
+    "name": "Red Ball 4",
+    "image": "icons/redball4.png",
+    "url": "mages/redball4/index.html",
+    "category": "Game",
+    "favicon": "mages/redball4/redball4.png"
+  },
+  {
+    "name": "Red Ball 4 V2",
+    "image": "icons/redball4v2.png",
+    "url": "mages/redball4v2/index.html",
+    "category": "Game",
+    "favicon": "mages/redball4v2/redball4v2.png"
+  },
+  {
+    "name": "Red Ball 4 V3",
+    "image": "icons/redball4v3.png",
+    "url": "mages/redball4v3/index.html",
+    "category": "Game",
+    "favicon": "mages/redball4v3/redball4v3.png"
+  },
+  {
+    "name": "Retro Bowl",
+    "image": "icons/retrobowl.png",
+    "url": "mages/retrobowl/index.html",
+    "category": "Game",
+    "favicon": "mages/retrobowl/retrobowl.png"
+  },
+  {
+    "name": "Retro Bowl College",
+    "image": "icons/retrobowlcollege.png",
+    "url": "mages/retrobowlcollege/index.html",
+    "category": "Game",
+    "favicon": "mages/retrobowlcollege/retrobowlcollege.png"
+  },
+  {
+    "name": "Riddle School",
+    "image": "icons/riddleschool.png",
+    "url": "mages/riddleschool/index.html",
+    "category": "Game",
+    "favicon": "mages/riddleschool/riddleschool.png"
+  },
+  {
+    "name": "Riddle School 2",
+    "image": "icons/riddleschool2.png",
+    "url": "mages/riddleschool2/index.html",
+    "category": "Game",
+    "favicon": "mages/riddleschool2/riddleschool2.png"
+  },
+  {
+    "name": "Riddle School 3",
+    "image": "icons/riddleschool3.png",
+    "url": "mages/riddleschool3/index.html",
+    "category": "Game",
+    "favicon": "mages/riddleschool3/riddleschool3.png"
+  },
+  {
+    "name": "Riddle School 4",
+    "image": "icons/riddleschool4.png",
+    "url": "mages/riddleschool4/index.html",
+    "category": "Game",
+    "favicon": "mages/riddleschool4/riddleschool4.png"
+  },
+  {
+    "name": "Riddle School 5",
+    "image": "icons/riddleschool5.png",
+    "url": "mages/riddleschool5/index.html",
+    "category": "Game",
+    "favicon": "mages/riddleschool5/riddleschool5.png"
+  },
+  {
+    "name": "Riddle School Transfer",
+    "image": "icons/riddleschooltransfer.png",
+    "url": "mages/riddleschooltransfer/index.html",
+    "category": "Game",
+    "favicon": "mages/riddleschooltransfer/riddleschooltransfer.png"
+  },
+  {
+    "name": "Riddle School Transfer 2",
+    "image": "icons/riddleschooltransfer2.png",
+    "url": "mages/riddleschooltransfer2/index.html",
+    "category": "Game",
+    "favicon": "mages/riddleschooltransfer2/riddleschooltransfer2.png"
+  },
+  {
+    "name": "Rise Higher",
+    "image": "icons/risehigher.png",
+    "url": "mages/risehigher/index.html",
+    "category": "Game",
+    "favicon": "mages/risehigher/risehigher.png"
+  },
+  {
+    "name": "Rocket Bot Royale",
+    "image": "icons/rocketbotroyale.png",
+    "url": "mages/rocketbotroyale/index.html",
+    "category": "Game",
+    "favicon": "mages/rocketbotroyale/rocketbotroyale.png"
+  },
+  {
+    "name": "Rocket League",
+    "image": "icons/rocketleague.png",
+    "url": "mages/rocketleague/index.html",
+    "category": "Game",
+    "favicon": "mages/rocketleague/rocketleague.png"
+  },
+  {
+    "name": "Rocket League 2D",
+    "image": "icons/rocketleague2d.png",
+    "url": "mages/rocketleague2d/index.html",
+    "category": "Game",
+    "favicon": "mages/rocketleague2d/rocketleague2d.png"
+  },
+  {
+    "name": "Rooftop Snipers",
+    "image": "icons/rooftopsnipers.png",
+    "url": "mages/rooftopsnipers/index.html",
+    "category": "Game",
+    "favicon": "mages/rooftopsnipers/rooftopsnipers.png"
+  },
+  {
+    "name": "Rooftop Snipers 2",
+    "image": "icons/rooftopsnipers2.png",
+    "url": "mages/rooftopsnipers2/index.html",
+    "category": "Game",
+    "favicon": "mages/rooftopsnipers2/rooftopsnipers2.png"
+  },
+  {
+    "name": "Rough Dino",
+    "image": "icons/roughdino.png",
+    "url": "mages/roughdino/index.html",
+    "category": "Game",
+    "favicon": "mages/roughdino/roughdino.png"
+  },
+  {
+    "name": "Run",
+    "image": "icons/run.png",
+    "url": "mages/run/index.html",
+    "category": "Game",
+    "favicon": "mages/run/run.png"
+  },
+  {
+    "name": "Run 2",
+    "image": "icons/run2.png",
+    "url": "mages/run2/index.html",
+    "category": "Game",
+    "favicon": "mages/run2/run2.png"
+  },
+  {
+    "name": "Run 3",
+    "image": "icons/run3.png",
+    "url": "mages/run3/index.html",
+    "category": "Game",
+    "favicon": "mages/run3/run3.png"
+  },
+  {
+    "name": "Run 3 Editor",
+    "image": "icons/run3editor.png",
+    "url": "mages/run3editor/index.html",
+    "category": "Game",
+    "favicon": "mages/run3editor/run3editor.png"
+  },
+  {
+    "name": "Russian Car Driver",
+    "image": "icons/russiancardriver.png",
+    "url": "mages/russiancardriver/index.html",
+    "category": "Game",
+    "favicon": "mages/russiancardriver/russiancardriver.png"
+  },
+  {
+    "name": "Sandboxels",
+    "image": "icons/sandboxels.png",
+    "url": "mages/sandboxels/index.html",
+    "category": "Game",
+    "favicon": "mages/sandboxels/sandboxels.png"
+  },
+  {
+    "name": "Sand Game",
+    "image": "icons/sandgame.png",
+    "url": "mages/sandgame/index.html",
+    "category": "Game",
+    "favicon": "mages/sandgame/sandgame.png"
+  },
+  {
+    "name": "Sandtrix",
+    "image": "icons/sandtrix.png",
+    "url": "mages/sandtrix/index.html",
+    "category": "Game",
+    "favicon": "mages/sandtrix/sandtrix.png"
+  },
+  {
+    "name": "Shapes Shipper",
+    "image": "icons/shapesshipper.png",
+    "url": "mages/shapesshipper/index.html",
+    "category": "Game",
+    "favicon": "mages/shapesshipper/shapesshipper.png"
+  },
+  {
+    "name": "Shapes",
+    "image": "icons/shapes.png",
+    "url": "mages/shapes/index.html",
+    "category": "Game",
+    "favicon": "mages/shapes/shapes.png"
+  },
+  {
+    "name": "Simcity",
+    "image": "icons/simcity.png",
+    "url": "mages/simcity/index.html",
+    "category": "Game",
+    "favicon": "mages/simcity/simcity.png"
+  },
+  {
+    "name": "Simcity 2000",
+    "image": "icons/simcity2000.png",
+    "url": "mages/simcity2000/index.html",
+    "category": "Game",
+    "favicon": "mages/simcity2000/simcity2000.png"
+  },
+  {
+    "name": "Simon",
+    "image": "icons/simon.png",
+    "url": "mages/simon/index.html",
+    "category": "Game",
+    "favicon": "mages/simon/simon.png"
+  },
+  {
+    "name": "Skate",
+    "image": "icons/skate.png",
+    "url": "mages/skate/index.html",
+    "category": "Game",
+    "favicon": "mages/skate/skate.png"
+  },
+  {
+    "name": "Skibidi Toilet 1v100",
+    "image": "icons/skibiditoilet1v100.png",
+    "url": "mages/skibiditoilet1v100/index.html",
+    "category": "Game",
+    "favicon": "mages/skibiditoilet1v100/skibiditoilet1v100.png"
+  },
+  {
+    "name": "Skibidi Toilet Attack",
+    "image": "icons/skibiditoiletattack.png",
+    "url": "mages/skibiditoiletattack/index.html",
+    "category": "Game",
+    "favicon": "mages/skibiditoiletattack/skibiditoiletattack.png"
+  },
+  {
+    "name": "Skywire VIP",
+    "image": "icons/skywirevip.png",
+    "url": "mages/skywirevip/index.html",
+    "category": "Game",
+    "favicon": "mages/skywirevip/skywirevip.png"
+  },
+  {
+    "name": "Slope",
+    "image": "icons/slope.png",
+    "url": "mages/slope/index.html",
+    "category": "Game",
+    "favicon": "mages/slope/slope.png"
+  },
+  {
+    "name": "Slope 2",
+    "image": "icons/slope2.png",
+    "url": "mages/slope2/index.html",
+    "category": "Game",
+    "favicon": "mages/slope2/slope2.png"
+  },
+  {
+    "name": "Slope 3",
+    "image": "icons/slope3.png",
+    "url": "mages/slope3/index.html",
+    "category": "Game",
+    "favicon": "mages/slope3/slope3.png"
+  },
+  {
+    "name": "Slope Ball",
+    "image": "icons/slopeball.png",
+    "url": "mages/slopeball/index.html",
+    "category": "Game",
+    "favicon": "mages/slopeball/slopeball.png"
+  },
+  {
+    "name": "Slope City",
+    "image": "icons/slopecity.png",
+    "url": "mages/slopecity/index.html",
+    "category": "Game",
+    "favicon": "mages/slopecity/slopecity.png"
+  },
+  {
+    "name": "Snake",
+    "image": "icons/snake.png",
+    "url": "mages/snake/index.html",
+    "category": "Game",
+    "favicon": "mages/snake/snake.png"
+  },
+  {
+    "name": "Snot Out",
+    "image": "icons/snotout.png",
+    "url": "mages/snotout/index.html",
+    "category": "Game",
+    "favicon": "mages/snotout/snotout.png"
+  },
+  {
+    "name": "Snow Battle IO",
+    "image": "icons/snowbattleio.png",
+    "url": "mages/snowbattleio/index.html",
+    "category": "Game",
+    "favicon": "mages/snowbattleio/snowbattleio.png"
+  },
+  {
+    "name": "Snow Rider 3D",
+    "image": "icons/snowrider3d.png",
+    "url": "mages/snowrider3d/index.html",
+    "category": "Game",
+    "favicon": "mages/snowrider3d/snowrider3d.png"
+  },
+  {
+    "name": "Solitaire",
+    "image": "icons/solitaire.png",
+    "url": "mages/solitaire/index.html",
+    "category": "Game",
+    "favicon": "mages/solitaire/solitaire.png"
+  },
+  {
+    "name": "Sonic",
+    "image": "icons/sonic.png",
+    "url": "mages/sonic/index.html",
+    "category": "Game",
+    "favicon": "mages/sonic/sonic.png"
+  },
+  {
+    "name": "Sonic 2",
+    "image": "icons/sonic2.png",
+    "url": "mages/sonic2/index.html",
+    "category": "Game",
+    "favicon": "mages/sonic2/sonic2.png"
+  },
+  {
+    "name": "Sonic 3",
+    "image": "icons/sonic3.png",
+    "url": "mages/sonic3/index.html",
+    "category": "Game",
+    "favicon": "mages/sonic3/sonic3.png"
+  },
+  {
+    "name": "Sonic Advance",
+    "image": "icons/sonicadvance.png",
+    "url": "mages/sonicadvance/index.html",
+    "category": "Game",
+    "favicon": "mages/sonicadvance/sonicadvance.png"
+  },
+  {
+    "name": "Sonic Advance 2",
+    "image": "icons/sonicadvance2.png",
+    "url": "mages/sonicadvance2/index.html",
+    "category": "Game",
+    "favicon": "mages/sonicadvance2/sonicadvance2.png"
+  },
+  {
+    "name": "Sonic Advance 3",
+    "image": "icons/sonicadvance3.png",
+    "url": "mages/sonicadvance3/index.html",
+    "category": "Game",
+    "favicon": "mages/sonicadvance3/sonicadvance3.png"
+  },
+  {
+    "name": "Sonic And Knuckles",
+    "image": "icons/sonicandknuckles.png",
+    "url": "mages/sonicandknuckles/index.html",
+    "category": "Game",
+    "favicon": "mages/sonicandknuckles/sonicandknuckles.png"
+  },
+  {
+    "name": "Sonic Blox",
+    "image": "icons/sonicblox.png",
+    "url": "mages/sonicblox/index.html",
+    "category": "Game",
+    "favicon": "mages/sonicblox/sonicblox.png"
+  },
+  {
+    "name": "Soundboard",
+    "image": "icons/soundboard.png",
+    "url": "mages/soundboard/index.html",
+    "category": "Game",
+    "favicon": "mages/soundboard/soundboard.png"
+  },
+  {
+    "name": "Spank The Monkey",
+    "image": "icons/spankthemonkey.png",
+    "url": "mages/spankthemonkey/index.html",
+    "category": "Game",
+    "favicon": "mages/spankthemonkey/spankthemonkey.png"
+  },
+  {
+    "name": "Splash And Dash",
+    "image": "icons/splashanddash.png",
+    "url": "mages/splashanddash/index.html",
+    "category": "Game",
+    "favicon": "mages/splashanddash/splashanddash.png"
+  },
+  {
+    "name": "Spongebob Snowpants",
+    "image": "icons/spongebobsnowpants.png",
+    "url": "mages/spongebobsnowpants/index.html",
+    "category": "Game",
+    "favicon": "mages/spongebobsnowpants/spongebobsnowpants.png"
+  },
+  {
+    "name": "Sprinter",
+    "image": "icons/sprinter.png",
+    "url": "mages/sprinter/index.html",
+    "category": "Game",
+    "favicon": "mages/sprinter/sprinter.png"
+  },
+  {
+    "name": "Stack Bounce",
+    "image": "icons/stackbounce.png",
+    "url": "mages/stackbounce/index.html",
+    "category": "Game",
+    "favicon": "mages/stackbounce/stackbounce.png"
+  },
+  {
+    "name": "Stacker",
+    "image": "icons/stacker.png",
+    "url": "mages/stacker/index.html",
+    "category": "Game",
+    "favicon": "mages/stacker/stacker.png"
+  },
+  {
+    "name": "Star Clicker",
+    "image": "icons/starclicker.png",
+    "url": "mages/starclicker/index.html",
+    "category": "Game",
+    "favicon": "mages/starclicker/starclicker.png"
+  },
+  {
+    "name": "Starfox 64",
+    "image": "icons/starfox64.png",
+    "url": "mages/starfox64/index.html",
+    "category": "Game",
+    "favicon": "mages/starfox64/starfox64.png"
+  },
+  {
+    "name": "State.io",
+    "image": "icons/stateio.png",
+    "url": "mages/stateio/index.html",
+    "category": "Game",
+    "favicon": "mages/stateio/stateio.png"
+  },
+  {
+    "name": "Stickman Boost",
+    "image": "icons/stickmanboost.png",
+    "url": "mages/stickmanboost/index.html",
+    "category": "Game",
+    "favicon": "mages/stickmanboost/stickmanboost.png"
+  },
+  {
+    "name": "Stickman Climb",
+    "image": "icons/stickmanclimb.png",
+    "url": "mages/stickmanclimb/index.html",
+    "category": "Game",
+    "favicon": "mages/stickmanclimb/stickmanclimb.png"
+  },
+  {
+    "name": "Stickman Golf",
+    "image": "icons/stickmangolf.png",
+    "url": "mages/stickmangolf/index.html",
+    "category": "Game",
+    "favicon": "mages/stickmangolf/stickmangolf.png"
+  },
+  {
+    "name": "Stickman Hook",
+    "image": "icons/stickmanhook.png",
+    "url": "mages/stickmanhook/index.html",
+    "category": "Game",
+    "favicon": "mages/stickmanhook/stickmanhook.png"
+  },
+  {
+    "name": "Subway Surfers New York",
+    "image": "icons/subwaysurfersny.png",
+    "url": "mages/subwaysurfersny/index.html",
+    "category": "Game",
+    "favicon": "mages/subwaysurfersny/subwaysurfersny.png"
+  },
+  {
+    "name": "Subway Surfers San Francisco",
+    "image": "icons/subwaysurfers.png",
+    "url": "mages/subwaysurfers/index.html",
+    "category": "Game",
+    "favicon": "mages/subwaysurfers/subwaysurfers.png"
+  },
+  {
+    "name": "Duke Nukem 2",
+    "image": "icons/dukenukem2.png",
+    "url": "mages/dukenukem2/index.html",
+    "category": "Game",
+    "favicon": "mages/dukenukem2/dukenukem2.png"
+  },
+  {
+    "name": "Sudoku",
+    "image": "icons/sudoku.png",
+    "url": "mages/sudoku/index.html",
+    "category": "Game",
+    "favicon": "mages/sudoku/sudoku.png"
+  },
+  {
+    "name": "Super Auto Pets",
+    "image": "icons/superautopets.png",
+    "url": "mages/superautopets/index.html",
+    "category": "Game",
+    "favicon": "mages/superautopets/superautopets.png"
+  },
+  {
+    "name": "Superhero",
+    "image": "icons/superhero.png",
+    "url": "mages/superhero/index.html",
+    "category": "Game",
+    "favicon": "mages/superhero/superhero.png"
+  },
+  {
+    "name": "Superhot",
+    "image": "icons/superhot.png",
+    "url": "mages/superhot/index.html",
+    "category": "Game",
+    "favicon": "mages/superhot/superhot.png"
+  },
+  {
+    "name": "Super Meat Boy",
+    "image": "icons/supermeatboy.png",
+    "url": "mages/supermeatboy/index.html",
+    "category": "Game",
+    "favicon": "mages/supermeatboy/supermeatboy.png"
+  },
+  {
+    "name": "Super Smash Bros",
+    "image": "icons/supersmashbros.png",
+    "url": "mages/supersmashbros/index.html",
+    "category": "Game",
+    "favicon": "mages/supersmashbros/supersmashbros.png"
+  },
+  {
+    "name": "Super Smash Flash",
+    "image": "icons/supersmashflash.png",
+    "url": "mages/supersmashflash/index.html",
+    "category": "Game",
+    "favicon": "mages/supersmashflash/supersmashflash.png"
+  },
+  {
+    "name": "Tabs",
+    "image": "icons/tabs.png",
+    "url": "mages/tabs/index.html",
+    "category": "Game",
+    "favicon": "mages/tabs/tabs.png"
+  },
+  {
+    "name": "Talking Tom 2",
+    "image": "icons/talkingtom2.png",
+    "url": "mages/talkingtom2/index.html",
+    "category": "Game",
+    "favicon": "mages/talkingtom2/talkingtom2.png"
+  },
+  {
+    "name": "Tappy Plane",
+    "image": "icons/tappyplane.png",
+    "url": "mages/tappyplane/index.html",
+    "category": "Game",
+    "favicon": "mages/tappyplane/tappyplane.png"
+  },
+  {
+    "name": "Temple",
+    "image": "icons/temple.png",
+    "url": "mages/temple/index.html",
+    "category": "Game",
+    "favicon": "mages/temple/temple.png"
+  },
+  {
+    "name": "Temple Run 2",
+    "image": "icons/templerun2.png",
+    "url": "mages/templerun2/index.html",
+    "category": "Game",
+    "favicon": "mages/templerun2/templerun2.png"
+  },
+  {
+    "name": "Terrifried",
+    "image": "icons/terrifried.png",
+    "url": "mages/terrifried/index.html",
+    "category": "Game",
+    "favicon": "mages/terrifried/terrifried.png"
+  },
+  {
+    "name": "Territorial IO",
+    "image": "icons/territorialio.png",
+    "url": "mages/territorialio/index.html",
+    "category": "Game",
+    "favicon": "mages/territorialio/territorialio.png"
+  },
+  {
+    "name": "Tetris",
+    "image": "icons/tetris.png",
+    "url": "mages/tetris/index.html",
+    "category": "Game",
+    "favicon": "mages/tetris/tetris.png"
+  },
+  {
+    "name": "The Binding Of Isaac",
+    "image": "icons/thebindingofisaac.png",
+    "url": "mages/thebindingofisaac/index.html",
+    "category": "Game",
+    "favicon": "mages/thebindingofisaac/thebindingofisaac.png"
+  },
+  {
+    "name": "The Black Man",
+    "image": "icons/theblackman.png",
+    "url": "mages/theblackman/index.html",
+    "category": "Game",
+    "favicon": "mages/theblackman/theblackman.png"
+  },
+  {
+    "name": "The Enchanted Cave",
+    "image": "icons/theenchantedcave.png",
+    "url": "mages/theenchantedcave/index.html",
+    "category": "Game",
+    "favicon": "mages/theenchantedcave/theenchantedcave.png"
+  },
+  {
+    "name": "The Enchanted Cave 2",
+    "image": "icons/theenchantedcave2.png",
+    "url": "mages/theenchantedcave2/index.html",
+    "category": "Game",
+    "favicon": "mages/theenchantedcave2/theenchantedcave2.png"
+  },
+  {
+    "name": "The Final Earth 2",
+    "image": "icons/thefinalearth2.png",
+    "url": "mages/thefinalearth2/index.html",
+    "category": "Game",
+    "favicon": "mages/thefinalearth2/thefinalearth2.png"
+  },
+  {
+    "name": "Theme Hotel",
+    "image": "icons/themehotel.png",
+    "url": "mages/themehotel/index.html",
+    "category": "Game",
+    "favicon": "mages/themehotel/themehotel.png"
+  },
+  {
+    "name": "The Heist",
+    "image": "icons/theheist.png",
+    "url": "mages/theheist/index.html",
+    "category": "Game",
+    "favicon": "mages/theheist/theheist.png"
+  },
+  {
+    "name": "The Battle",
+    "image": "icons/thebattle.png",
+    "url": "mages/thebattle/index.html",
+    "category": "Game",
+    "favicon": "mages/thebattle/thebattle.png"
+  },
+  {
+    "name": "The Hotel",
+    "image": "icons/thehotel.png",
+    "url": "mages/thehotel/index.html",
+    "category": "Game",
+    "favicon": "mages/thehotel/thehotel.png"
+  },
+  {
+    "name": "Throw Rocks",
+    "image": "icons/throwrocks.png",
+    "url": "mages/throwrocks/index.html",
+    "category": "Game",
+    "favicon": "mages/throwrocks/throwrocks.png"
+  },
+  {
+    "name": "The Oregon Trail",
+    "image": "icons/theoregontrail.png",
+    "url": "mages/oregontrail/index.html",
+    "category": "Game",
+    "favicon": "mages/theoregontrail/theoregontrail.png"
+  },
+  {
+    "name": "The Oregon Trail (Jamesfriend)",
+    "image": "icons/totjamesfriend.png",
+    "url": "mages/theoregontrail/oregon-trail.html",
+    "category": "Game",
+    "favicon": "mages/oregontrail/oregontrail.png"
+  },
+  {
+    "name": "The Sims Busting Out",
+    "image": "icons/thesimsbustingout.png",
+    "url": "mages/thesimsbustingout/index.html",
+    "category": "Game",
+    "favicon": "mages/thesimsbustingout/thesimsbustingout.png"
+  },
+  {
+    "name": "The Impossible Game",
+    "image": "icons/theimpossiblegame.png",
+    "url": "mages/theimpossiblegame/index.html",
+    "category": "Game",
+    "favicon": "mages/theimpossiblegame/theimpossiblegame.png"
+  },
+  {
+    "name": "The Impossible Quiz",
+    "image": "icons/theimpossiblequiz.png",
+    "url": "mages/theimpossiblequiz/index.html",
+    "category": "Game",
+    "favicon": "mages/theimpossiblequiz/theimpossiblequiz.png"
+  },
+  {
+    "name": "There Is No Game",
+    "image": "icons/thereisnogame.png",
+    "url": "mages/thereisnogame/index.html",
+    "category": "Game",
+    "favicon": "mages/thereisnogame/thereisnogame.png"
+  },
+  {
+    "name": "This Is The Only Level",
+    "image": "icons/thisistheonlylevel.png",
+    "url": "mages/thisistheonlylevel/index.html",
+    "category": "Game",
+    "favicon": "mages/thisistheonlylevel/thisistheonlylevel.png"
+  },
+  {
+    "name": "This Is The Only Level 2",
+    "image": "icons/thisistheonlylevel2.png",
+    "url": "mages/thisistheonlylevel2/index.html",
+    "category": "Game",
+    "favicon": "mages/thisistheonlylevel2/thisistheonlylevel2.png"
+  },
+  {
+    "name": "Thumb Fighter",
+    "image": "icons/thumbfighter.png",
+    "url": "mages/thumbfighter/index.html",
+    "category": "Game",
+    "favicon": "mages/thumbfighter/thumbfighter.png"
+  },
+  {
+    "name": "Time Shooter 1",
+    "image": "icons/timeshooter1.png",
+    "url": "mages/timeshooter1/index.html",
+    "category": "Game",
+    "favicon": "mages/timeshooter1/timeshooter1.png"
+  },
+  {
+    "name": "Time Shooter 2",
+    "image": "icons/timeshooter2.png",
+    "url": "mages/timeshooter2/index.html",
+    "category": "Game",
+    "favicon": "mages/timeshooter2/timeshooter2.png"
+  },
+  {
+    "name": "Time Shooter 3",
+    "image": "icons/timeshooter3.png",
+    "url": "mages/timeshooter3/index.html",
+    "category": "Game",
+    "favicon": "mages/timeshooter3/timeshooter3.png"
+  },
+  {
+    "name": "Tiny Fishing",
+    "image": "icons/tinyfishing.png",
+    "url": "mages/tinyfishing/index.html",
+    "category": "Game",
+    "favicon": "mages/tinyfishing/tinyfishing.png"
+  },
+  {
+    "name": "Tiny Islands",
+    "image": "icons/tinyislands.png",
+    "url": "mages/tinyislands/index.html",
+    "category": "Game",
+    "favicon": "mages/tinyislands/tinyislands.png"
+  },
+  {
+    "name": "Toss The Turtle",
+    "image": "icons/tosstheturtle.png",
+    "url": "mages/tosstheturtle/index.html",
+    "category": "Game",
+    "favicon": "mages/tosstheturtle/tosstheturtle.png"
+  },
+  {
+    "name": "Tv Static",
+    "image": "icons/tvstatic.png",
+    "url": "mages/tvstatic/index.html",
+    "category": "Game",
+    "favicon": "mages/tvstatic/tvstatic.png"
+  },
+  {
+    "name": "Win The White House",
+    "image": "icons/winthewhitehouse.png",
+    "url": "mages/winthewhitehouse/index.html",
+    "category": "Game",
+    "favicon": "mages/winthewhitehouse/winthewhitehouse.png"
+  },
+  {
+    "name": "Wolfenstein 3D",
+    "image": "icons/wolf3d.png",
+    "url": "mages/wolf3d/index.html",
+    "category": "Game",
+    "favicon": "mages/wolf3d/wolf3d.png"
+  },
+  {
+    "name": "X Trial Racing",
+    "image": "icons/xtrialracing.png",
+    "url": "mages/xtrialracing/index.html",
+    "category": "Game",
+    "favicon": "mages/xtrialracing/xtrialracing.png"
+  },
+  {
+    "name": "Yoshi Fabrication Studio",
+    "image": "icons/yoshifabrication.png",
+    "url": "mages/yoshifabrication/index.html",
+    "category": "Game",
+    "favicon": "mages/yoshifabrication/yoshifabrication.png"
+  },
+  {
+    "name": "Super Mario Construct",
+    "image": "icons/supermarioconstruct.png",
+    "url": "mages/supermarioconstruct/index.html",
+    "category": "Game",
+    "favicon": "mages/supermarioconstruct/supermarioconstruct.png"
+  },
+  {
+    "name": "Swerve",
+    "image": "icons/swerve.png",
+    "url": "mages/swerve/index.html",
+    "category": "Game",
+    "favicon": "mages/swerve/swerve.png"
+  },
+  {
+    "name": "Sushi Unroll",
+    "image": "icons/sushiunroll.png",
+    "url": "mages/sushiunroll/index.html",
+    "category": "Game",
+    "favicon": "mages/sushiunroll/sushiunroll.png"
+  },
+  {
+    "name": "Surviv.io",
+    "image": "icons/survivio.png",
+    "url": "mages/survivio/index.html",
+    "category": "Game",
+    "favicon": "mages/survivio/survivio.png"
+  },
+  {
+    "name": "Tomb Of The Mask",
+    "image": "icons/tombofthemask.png",
+    "url": "mages/tombofthemask/index.html",
+    "category": "Game",
+    "favicon": "mages/tombofthemask/tombofthemask.png"
+  },
+  {
+    "name": "Townscaper",
+    "image": "icons/townscaper.png",
+    "url": "mages/townscaper/index.html",
+    "category": "Game",
+    "favicon": "mages/townscaper/townscaper.png"
+  },
+  {
+    "name": "Train Surfers",
+    "image": "icons/trainsurfers.png",
+    "url": "mages/trainsurfers/index.html",
+    "category": "Game",
+    "favicon": "mages/trainsurfers/trainsurfers.png"
+  },
+  {
+    "name": "Tron",
+    "image": "icons/tron.png",
+    "url": "mages/tron/index.html",
+    "category": "Game",
+    "favicon": "mages/tron/tron.png"
+  },
+  {
+    "name": "Tu 46",
+    "image": "icons/tu46.png",
+    "url": "mages/tu46/index.html",
+    "category": "Game",
+    "favicon": "mages/tu46/tu46.png"
+  },
+  {
+    "name": "Tu 95",
+    "image": "icons/tu95.png",
+    "url": "mages/tu95/index.html",
+    "category": "Game",
+    "favicon": "mages/tu95/tu95.png"
+  },
+  {
+    "name": "Tube Jumpers",
+    "image": "icons/tubejumpers.png",
+    "url": "mages/tubejumpers/index.html",
+    "category": "Game",
+    "favicon": "mages/tubejumpers/tubejumpers.png"
+  },
+  {
+    "name": "Tunnel Rush",
+    "image": "icons/tunnelrush.png",
+    "url": "mages/tunnelrush/index.html",
+    "category": "Game",
+    "favicon": "mages/tunnelrush/tunnelrush.png"
+  },
+  {
+    "name": "Turbo Racing 3",
+    "image": "icons/turboracing3.png",
+    "url": "mages/turboracing3/index.html",
+    "category": "Game",
+    "favicon": "mages/turboracing3/turboracing3.png"
+  },
+  {
+    "name": "Two Ball 3D",
+    "image": "icons/twoball3d.png",
+    "url": "mages/twoball3d/index.html",
+    "category": "Game",
+    "favicon": "mages/twoball3d/twoball3d.png"
+  },
+  {
+    "name": "Ultimate Sonic Flash",
+    "image": "icons/ultimatesonicflash.png",
+    "url": "mages/ultimatesonicflash/index.html",
+    "category": "Game",
+    "favicon": "mages/ultimatesonicflash/ultimatesonicflash.png"
+  },
+  {
+    "name": "Unfair Mario",
+    "image": "icons/unfairmario.png",
+    "url": "mages/unfairmario/index.html",
+    "category": "Game",
+    "favicon": "mages/unfairmario/unfairmario.png"
+  },
+  {
+    "name": "Universal Paperclips",
+    "image": "icons/universalpaperclips.png",
+    "url": "mages/universalpaperclips/index.html",
+    "category": "Game",
+    "favicon": "mages/universalpaperclips/universalpaperclips.png"
+  },
+  {
+    "name": "Vex",
+    "image": "icons/vex.png",
+    "url": "mages/vex/index.html",
+    "category": "Game",
+    "favicon": "mages/vex/vex.png"
+  },
+  {
+    "name": "Vex 2",
+    "image": "icons/vex2.png",
+    "url": "mages/vex2/index.html",
+    "category": "Game",
+    "favicon": "mages/vex2/vex2.png"
+  },
+  {
+    "name": "Vex 3",
+    "image": "icons/vex3.png",
+    "url": "mages/vex3/index.html",
+    "category": "Game",
+    "favicon": "mages/vex3/vex3.png"
+  },
+  {
+    "name": "Vex 4",
+    "image": "icons/vex4.png",
+    "url": "mages/vex4/index.html",
+    "category": "Game",
+    "favicon": "mages/vex4/vex4.png"
+  },
+  {
+    "name": "Vex 5",
+    "image": "icons/vex5.png",
+    "url": "mages/vex5/index.html",
+    "category": "Game",
+    "favicon": "mages/vex5/vex5.png"
+  },
+  {
+    "name": "Vex 6",
+    "image": "icons/vex6.png",
+    "url": "mages/vex6/index.html",
+    "category": "Game",
+    "favicon": "mages/vex6/vex6.png"
+  },
+  {
+    "name": "Vex 7",
+    "image": "icons/vex7.png",
+    "url": "mages/vex7/index.html",
+    "category": "Game",
+    "favicon": "mages/vex7/vex7.png"
+  },
+  {
+    "name": "Wall Smash",
+    "image": "icons/wallsmash.png",
+    "url": "mages/wallsmash/index.html",
+    "category": "Game",
+    "favicon": "mages/wallsmash/wallsmash.png"
+  },
+  {
+    "name": "Watermelon Game",
+    "image": "icons/watermelongame.png",
+    "url": "mages/watermelongame/index.html",
+    "category": "Game",
+    "favicon": "mages/watermelongame/watermelongame.png"
+  },
+  {
+    "name": "We Become What We Behold",
+    "image": "icons/webecomewhatwebehold.png",
+    "url": "mages/webecomewhatwebehold/index.html",
+    "category": "Game",
+    "favicon": "mages/webecomewhatwebehold/webecomewhatwebehold.png"
+  },
+  {
+    "name": "Weave Silk",
+    "image": "icons/weavesilk.png",
+    "url": "mages/weavesilk/index.html",
+    "category": "Game",
+    "favicon": "mages/weavesilk/weavesilk.png"
+  },
+  {
+    "name": "WebGL Fluid Sim",
+    "image": "icons/webglfluidsim.png",
+    "url": "mages/webglfluidsim/index.html",
+    "category": "Game",
+    "favicon": "mages/webglfluidsim/webglfluidsim.png"
+  },
+  {
+    "name": "Kitten Cannon",
+    "image": "icons/kittencannon.png",
+    "url": "mages/kittencannon/index.html",
+    "category": "Game",
+    "favicon": "mages/kittencannon/kittencannon.png"
+  },
+  {
+    "name": "Wheely",
+    "image": "icons/wheely.png",
+    "url": "mages/wheely/index.html",
+    "category": "Game",
+    "favicon": "mages/wheely/wheely.png"
+  },
+  {
+    "name": "Wheely 2",
+    "image": "icons/wheely2.png",
+    "url": "mages/wheely2/index.html",
+    "category": "Game",
+    "favicon": "mages/wheely2/wheely2.png"
+  },
+  {
+    "name": "Wheely 3",
+    "image": "icons/wheely3.png",
+    "url": "mages/wheely3/index.html",
+    "category": "Game",
+    "favicon": "mages/wheely3/wheely3.png"
+  },
+  {
+    "name": "Wheely 4",
+    "image": "icons/wheely4.png",
+    "url": "mages/wheely4/index.html",
+    "category": "Game",
+    "favicon": "mages/wheely4/wheely4.png"
+  },
+  {
+    "name": "Bacon May Die",
+    "image": "icons/baconmaydie.png",
+    "url": "mages/baconmaydie/index.html",
+    "category": "Game",
+    "favicon": "mages/baconmaydie/baconmaydie.png"
+  },
+  {
+    "name": "Wordle",
+    "image": "icons/wordle.png",
+    "url": "mages/wordle/index.html",
+    "category": "Game",
+    "favicon": "mages/wordle/wordle.png"
+  },
+  {
+    "name": "Wordle Bot",
+    "image": "icons/wordlebot.png",
+    "url": "mages/wordlebot/index.html",
+    "category": "Game",
+    "favicon": "mages/wordlebot/wordlebot.png"
+  },
+  {
+    "name": "World's Hardest Game",
+    "image": "icons/worldshardestgame.png",
+    "url": "mages/worldshardestgame/index.html",
+    "category": "Game",
+    "favicon": "mages/worldshardestgame/worldshardestgame.png"
+  },
+  {
+    "name": "World Hardest Game 2",
+    "image": "icons/worldhardestgame2.png",
+    "url": "mages/worldhardestgame2/index.html",
+    "category": "Game",
+    "favicon": "mages/worldhardestgame2/worldhardestgame2.png"
+  },
+  {
+    "name": "Wubz",
+    "image": "icons/wubz.png",
+    "url": "mages/wubz/index.html",
+    "category": "Game",
+    "favicon": "mages/wubz/wubz.png"
+  },
+  {
+    "name": "xx142-b2.exe",
+    "image": "icons/xx142b2exe.png",
+    "url": "mages/xx142b2exe/index.html",
+    "category": "Game",
+    "favicon": "mages/xx142b2exe/xx142b2exe.png"
+  },
+  {
+    "name": "Yohoho.io",
+    "image": "icons/yohohoio.png",
+    "url": "mages/yohohoio/index.html",
+    "category": "Game",
+    "favicon": "mages/yohohoio/yohohoio.png"
+  },
+  {
+    "name": "Zombocalypse",
+    "image": "icons/zombocalypse.png",
+    "url": "mages/zombocalypse/index.html",
+    "category": "Game",
+    "favicon": "mages/zombocalypse/zombocalypse.png"
+  },
+  {
+    "name": "Raft Wars",
+    "image": "icons/raftwars.png",
+    "url": "mages/raftwars/index.html",
+    "category": "Game",
+    "favicon": "mages/raftwars/raftwars.png"
+  },
+  {
+    "name": "GAMENAME",
+    "image": "icons/GAMEICON.png",
+    "url": "mages/GAMENAME/index.html",
+    "category": "Game",
+    "favicon": "mages/GAMENAME/GAMEICON.png"
+  }
+]
